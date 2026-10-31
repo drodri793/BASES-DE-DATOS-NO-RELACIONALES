@@ -1,0 +1,34 @@
+# Crearemos un único nodo maestro y 2 réplicas en una red propia.
+# Usaremos los puertos: 6379, 6380 y 6381
+
+services:
+# Nodo maestro 
+  redis-master:
+    image: redis:7
+    container_name: redis-master
+    ports: ["6379:6379"]
+    networks: [redisnet]
+
+# Réplica 1
+  # Para las dos réplicas usaremos el comando redis-server --replicaof redis-master 6379
+  # así, le indicamos que es una réplica del maestro y que ejecute redis en modo servidor
+  redis-replica1:
+    image: redis:7
+    container_name: redis-replica1
+    command: redis-server --replicaof redis-master 6379
+    ports: ["6380:6379"]
+    depends_on: [redis-master]
+    networks: [redisnet]
+
+# Réplica 2
+  redis-replica2:
+    image: redis:7
+    container_name: redis-replica2
+    command: redis-server --replicaof redis-master 6379
+    ports: ["6381:6379"]
+    depends_on: [redis-master]
+    networks: [redisnet]
+
+# Creamos la red virtual
+networks:
+  redisnet:
