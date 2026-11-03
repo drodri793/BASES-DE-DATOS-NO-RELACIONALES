@@ -1,4 +1,4 @@
-# Establecremos la configuración común y nombres de claves 
+# Estableceremos la configuración común y nombres de claves
 import os
 import redis
 
@@ -17,7 +17,7 @@ def destino():
     return os.environ.get("REDIS_HOST", "localhost"), int(os.environ.get("REDIS_PORT", 6379))
 
 def conectar(host=None, port=None):
-    # Buscamos a que destino tenemos que ir 
+    # Buscamos a que destino tenemos que ir
     h, p = destino()
     # Creamos el cliente Redis
     r = redis.Redis(host=host or h, port=port or p, decode_responses=True,

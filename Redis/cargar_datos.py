@@ -20,15 +20,15 @@ def main():
         # Proporciona por el id toda la información de la sala como su campus, el nombre, la capacidad
         # apertura, la hora de apertura, y su hora de cierre
         pipe.hset(sala(sid), mapping={
-            "campus": s["campus"], 
-            "nombre": s["nombre"], 
+            "campus": s["campus"],
+            "nombre": s["nombre"],
             "capacidad": cap,
-            "apertura": s["hora_apertura"], 
+            "apertura": s["hora_apertura"],
             "cierre": s["hora_cierre"]})
 
         # Eliminamos rastros anteriores por si se ejecuta más veces
         pipe.delete(puestos(sid), ocup(sid), espera(sid))
-        # Crea el BITMAP inicial donde todos los puestos están a cero 
+        # Crea el BITMAP inicial donde todos los puestos están a cero
         # Hacemos cap - 1 por los índices de python
         pipe.setbit(puestos(sid), cap - 1, 0)   
         # Añadir la sala al Sorted Set de libres con su capacidad máxima
@@ -38,14 +38,14 @@ def main():
 
     # Puestos con enchufe/ventana: sets por sala (útil para Insight y la demo)
     pipe = r.pipeline()
-    
+
     # Recorremos todos los puestos, para ir comprobando si cada uno de ellos tiene enchufe y ventana
     for p in filas_puestos:
-        # Coprobamos si tiene enchufe ese puesto
+        # Comprobamos si tiene enchufe ese puesto
         if p["enchufe"] == "True":
             pipe.sadd(f"sala:{p['sala_id']}:con_enchufe", int(p["puesto"]))
-        
-        # Comprobamos si tiene ventana ese puesto 
+
+        # Comprobamos si tiene ventana ese puesto
         if p["ventana"] == "True":
             pipe.sadd(f"sala:{p['sala_id']}:con_ventana", int(p["puesto"]))
     pipe.execute()

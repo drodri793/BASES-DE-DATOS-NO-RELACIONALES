@@ -1,4 +1,4 @@
-# Hace como un simulador de tornos de entradas y salidas aleatorioas en todas las salas
+# Hace como un simulador de tornos de entradas y salidas aleatorias en todas las salas
 import argparse, random, time
 import redis
 from config import *
