@@ -1,0 +1,2381 @@
+estudiante_id,campus,titulacion,curso
+EST00001,MOS,Ingeniería Ambiental,1
+EST00002,MOS,Ingeniería Ambiental,4
+EST00003,MOS,Ingeniería del Software,3
+EST00004,MOS,Ingeniería del Software,4
+EST00005,MOS,Ciencia e Ingeniería de Datos,2
+EST00006,MOS,Ciencia e Ingeniería de Datos,1
+EST00007,MOS,Ingeniería del Software,1
+EST00008,MOS,Ciencia e Ingeniería de Datos,3
+EST00009,MOS,Ingeniería Ambiental,2
+EST00010,MOS,Biotecnología,3
+EST00011,MOS,Ingeniería Ambiental,1
+EST00012,MOS,Ingeniería Informática,1
+EST00013,MOS,Ingeniería del Software,2
+EST00014,MOS,Biotecnología,1
+EST00015,MOS,Biotecnología,1
+EST00016,MOS,Ciencia e Ingeniería de Datos,4
+EST00017,MOS,Ciencia e Ingeniería de Datos,4
+EST00018,MOS,Ingeniería Ambiental,2
+EST00019,MOS,Ingeniería Ambiental,4
+EST00020,MOS,Ingeniería Ambiental,3
+EST00021,MOS,Biotecnología,3
+EST00022,MOS,Ingeniería Ambiental,2
+EST00023,MOS,Ingeniería del Software,2
+EST00024,MOS,Ingeniería del Software,1
+EST00025,MOS,Ingeniería del Software,4
+EST00026,MOS,Ingeniería Ambiental,2
+EST00027,MOS,Biotecnología,2
+EST00028,MOS,Ciencia e Ingeniería de Datos,1
+EST00029,MOS,Ingeniería del Software,3
+EST00030,MOS,Biotecnología,2
+EST00031,MOS,Ingeniería del Software,1
+EST00032,MOS,Ciencia e Ingeniería de Datos,4
+EST00033,MOS,Ingeniería del Software,1
+EST00034,MOS,Ingeniería del Software,4
+EST00035,MOS,Ciencia e Ingeniería de Datos,1
+EST00036,MOS,Ingeniería Ambiental,4
+EST00037,MOS,Biotecnología,3
+EST00038,MOS,Ingeniería Ambiental,4
+EST00039,MOS,Ciencia e Ingeniería de Datos,3
+EST00040,MOS,Biotecnología,2
+EST00041,MOS,Ingeniería Informática,3
+EST00042,MOS,Ciencia e Ingeniería de Datos,2
+EST00043,MOS,Biotecnología,1
+EST00044,MOS,Biotecnología,3
+EST00045,MOS,Biotecnología,2
+EST00046,MOS,Biotecnología,2
+EST00047,MOS,Ciencia e Ingeniería de Datos,2
+EST00048,MOS,Ingeniería del Software,2
+EST00049,MOS,Biotecnología,2
+EST00050,MOS,Ingeniería Ambiental,1
+EST00051,MOS,Ingeniería del Software,2
+EST00052,MOS,Ingeniería Informática,1
+EST00053,MOS,Ingeniería Ambiental,3
+EST00054,MOS,Biotecnología,3
+EST00055,MOS,Ingeniería del Software,1
+EST00056,MOS,Ciencia e Ingeniería de Datos,2
+EST00057,MOS,Ingeniería del Software,1
+EST00058,MOS,Ciencia e Ingeniería de Datos,4
+EST00059,MOS,Ciencia e Ingeniería de Datos,3
+EST00060,MOS,Biotecnología,3
+EST00061,MOS,Ingeniería Informática,4
+EST00062,MOS,Biotecnología,1
+EST00063,MOS,Ciencia e Ingeniería de Datos,2
+EST00064,MOS,Biotecnología,2
+EST00065,MOS,Ingeniería del Software,4
+EST00066,MOS,Ciencia e Ingeniería de Datos,3
+EST00067,MOS,Ciencia e Ingeniería de Datos,4
+EST00068,MOS,Ingeniería Ambiental,2
+EST00069,MOS,Ingeniería Informática,4
+EST00070,MOS,Ciencia e Ingeniería de Datos,3
+EST00071,MOS,Ingeniería Informática,2
+EST00072,MOS,Ingeniería Informática,4
+EST00073,MOS,Biotecnología,2
+EST00074,MOS,Ingeniería Informática,4
+EST00075,MOS,Ingeniería Ambiental,1
+EST00076,MOS,Ingeniería Ambiental,2
+EST00077,MOS,Ingeniería Informática,2
+EST00078,MOS,Ingeniería Informática,3
+EST00079,MOS,Biotecnología,1
+EST00080,MOS,Ingeniería Informática,2
+EST00081,MOS,Ciencia e Ingeniería de Datos,3
+EST00082,MOS,Ingeniería Ambiental,2
+EST00083,MOS,Ciencia e Ingeniería de Datos,3
+EST00084,MOS,Ingeniería Ambiental,1
+EST00085,MOS,Ciencia e Ingeniería de Datos,3
+EST00086,MOS,Biotecnología,2
+EST00087,MOS,Ingeniería Informática,2
+EST00088,MOS,Biotecnología,1
+EST00089,MOS,Biotecnología,2
+EST00090,MOS,Ingeniería Informática,3
+EST00091,MOS,Ingeniería Ambiental,2
+EST00092,MOS,Ingeniería Informática,4
+EST00093,MOS,Ingeniería del Software,1
+EST00094,MOS,Biotecnología,2
+EST00095,MOS,Ciencia e Ingeniería de Datos,1
+EST00096,MOS,Ciencia e Ingeniería de Datos,2
+EST00097,MOS,Ciencia e Ingeniería de Datos,2
+EST00098,MOS,Ingeniería Ambiental,4
+EST00099,MOS,Ingeniería del Software,3
+EST00100,MOS,Ingeniería Informática,2
+EST00101,MOS,Ingeniería Informática,4
+EST00102,MOS,Ingeniería Ambiental,3
+EST00103,MOS,Ingeniería Ambiental,2
+EST00104,MOS,Ingeniería Informática,1
+EST00105,MOS,Ingeniería Informática,3
+EST00106,MOS,Ingeniería Ambiental,3
+EST00107,MOS,Ingeniería Informática,3
+EST00108,MOS,Ingeniería Informática,2
+EST00109,MOS,Biotecnología,4
+EST00110,MOS,Biotecnología,4
+EST00111,MOS,Ciencia e Ingeniería de Datos,4
+EST00112,MOS,Ingeniería del Software,4
+EST00113,MOS,Biotecnología,2
+EST00114,MOS,Ingeniería del Software,3
+EST00115,MOS,Biotecnología,1
+EST00116,MOS,Ciencia e Ingeniería de Datos,1
+EST00117,MOS,Ingeniería del Software,3
+EST00118,MOS,Ingeniería Ambiental,2
+EST00119,MOS,Ingeniería del Software,4
+EST00120,MOS,Biotecnología,2
+EST00121,MOS,Biotecnología,3
+EST00122,MOS,Ingeniería Ambiental,3
+EST00123,MOS,Ingeniería Ambiental,2
+EST00124,MOS,Ingeniería Ambiental,4
+EST00125,MOS,Ingeniería Ambiental,4
+EST00126,MOS,Ciencia e Ingeniería de Datos,1
+EST00127,MOS,Ingeniería del Software,2
+EST00128,MOS,Ingeniería Informática,1
+EST00129,MOS,Biotecnología,4
+EST00130,MOS,Ingeniería Informática,1
+EST00131,MOS,Ciencia e Ingeniería de Datos,4
+EST00132,MOS,Ingeniería Informática,2
+EST00133,MOS,Biotecnología,3
+EST00134,MOS,Ingeniería Ambiental,3
+EST00135,MOS,Biotecnología,2
+EST00136,MOS,Ingeniería Informática,2
+EST00137,MOS,Ingeniería Ambiental,4
+EST00138,MOS,Ciencia e Ingeniería de Datos,1
+EST00139,MOS,Ciencia e Ingeniería de Datos,1
+EST00140,MOS,Ingeniería Informática,4
+EST00141,MOS,Biotecnología,2
+EST00142,MOS,Ingeniería Informática,3
+EST00143,MOS,Biotecnología,1
+EST00144,MOS,Ingeniería del Software,3
+EST00145,MOS,Ciencia e Ingeniería de Datos,3
+EST00146,MOS,Ciencia e Ingeniería de Datos,2
+EST00147,MOS,Ingeniería Ambiental,2
+EST00148,MOS,Ingeniería Informática,2
+EST00149,MOS,Ingeniería del Software,4
+EST00150,MOS,Ingeniería Informática,3
+EST00151,MOS,Ciencia e Ingeniería de Datos,2
+EST00152,MOS,Ingeniería Informática,3
+EST00153,MOS,Ingeniería del Software,2
+EST00154,MOS,Ingeniería del Software,4
+EST00155,MOS,Biotecnología,2
+EST00156,MOS,Ciencia e Ingeniería de Datos,4
+EST00157,MOS,Ingeniería del Software,3
+EST00158,MOS,Ingeniería Informática,4
+EST00159,MOS,Ingeniería del Software,3
+EST00160,MOS,Ingeniería del Software,1
+EST00161,MOS,Ingeniería Ambiental,4
+EST00162,MOS,Ciencia e Ingeniería de Datos,3
+EST00163,MOS,Ingeniería del Software,2
+EST00164,MOS,Ingeniería Ambiental,4
+EST00165,MOS,Biotecnología,4
+EST00166,MOS,Ingeniería Informática,1
+EST00167,MOS,Ingeniería Informática,4
+EST00168,MOS,Biotecnología,2
+EST00169,MOS,Ciencia e Ingeniería de Datos,4
+EST00170,MOS,Ingeniería del Software,1
+EST00171,MOS,Ciencia e Ingeniería de Datos,1
+EST00172,MOS,Ingeniería Ambiental,3
+EST00173,MOS,Ingeniería del Software,1
+EST00174,MOS,Ingeniería Ambiental,2
+EST00175,MOS,Ingeniería del Software,3
+EST00176,MOS,Ingeniería Ambiental,1
+EST00177,MOS,Ingeniería Ambiental,2
+EST00178,MOS,Ciencia e Ingeniería de Datos,3
+EST00179,MOS,Biotecnología,4
+EST00180,MOS,Biotecnología,2
+EST00181,MOS,Biotecnología,4
+EST00182,MOS,Ingeniería Informática,2
+EST00183,MOS,Ingeniería Informática,3
+EST00184,MOS,Biotecnología,1
+EST00185,MOS,Ingeniería Informática,1
+EST00186,MOS,Ingeniería del Software,1
+EST00187,MOS,Ingeniería Ambiental,3
+EST00188,MOS,Ingeniería Informática,1
+EST00189,MOS,Ingeniería Informática,1
+EST00190,MOS,Ciencia e Ingeniería de Datos,4
+EST00191,MOS,Ciencia e Ingeniería de Datos,2
+EST00192,MOS,Ingeniería del Software,4
+EST00193,MOS,Ciencia e Ingeniería de Datos,1
+EST00194,MOS,Biotecnología,3
+EST00195,MOS,Ingeniería del Software,4
+EST00196,MOS,Ingeniería del Software,4
+EST00197,MOS,Ingeniería Informática,3
+EST00198,MOS,Ingeniería del Software,1
+EST00199,MOS,Ingeniería Informática,4
+EST00200,MOS,Ingeniería del Software,3
+EST00201,MOS,Ingeniería Informática,3
+EST00202,MOS,Ingeniería del Software,4
+EST00203,MOS,Ciencia e Ingeniería de Datos,2
+EST00204,MOS,Ingeniería Informática,4
+EST00205,MOS,Ingeniería Ambiental,2
+EST00206,MOS,Ingeniería del Software,1
+EST00207,MOS,Ciencia e Ingeniería de Datos,3
+EST00208,MOS,Ciencia e Ingeniería de Datos,3
+EST00209,MOS,Biotecnología,3
+EST00210,MOS,Ingeniería del Software,3
+EST00211,MOS,Ingeniería Informática,3
+EST00212,MOS,Ingeniería del Software,2
+EST00213,MOS,Ingeniería del Software,4
+EST00214,MOS,Ingeniería Informática,1
+EST00215,MOS,Biotecnología,3
+EST00216,MOS,Ingeniería Ambiental,4
+EST00217,MOS,Ciencia e Ingeniería de Datos,2
+EST00218,MOS,Ingeniería Informática,4
+EST00219,MOS,Ciencia e Ingeniería de Datos,1
+EST00220,MOS,Ingeniería Ambiental,2
+EST00221,MOS,Ingeniería Informática,3
+EST00222,MOS,Ciencia e Ingeniería de Datos,1
+EST00223,MOS,Ciencia e Ingeniería de Datos,3
+EST00224,MOS,Biotecnología,4
+EST00225,MOS,Ciencia e Ingeniería de Datos,3
+EST00226,MOS,Ingeniería Informática,3
+EST00227,MOS,Ingeniería Informática,3
+EST00228,MOS,Ciencia e Ingeniería de Datos,1
+EST00229,MOS,Biotecnología,1
+EST00230,MOS,Ingeniería Ambiental,3
+EST00231,MOS,Ingeniería Ambiental,3
+EST00232,MOS,Biotecnología,1
+EST00233,MOS,Ingeniería Ambiental,3
+EST00234,MOS,Ingeniería del Software,3
+EST00235,MOS,Ingeniería Informática,3
+EST00236,MOS,Ingeniería Ambiental,4
+EST00237,MOS,Biotecnología,4
+EST00238,MOS,Ingeniería del Software,2
+EST00239,MOS,Ciencia e Ingeniería de Datos,3
+EST00240,MOS,Biotecnología,2
+EST00241,MOS,Biotecnología,1
+EST00242,MOS,Biotecnología,4
+EST00243,MOS,Ingeniería Ambiental,3
+EST00244,MOS,Ingeniería Informática,1
+EST00245,MOS,Ingeniería del Software,3
+EST00246,MOS,Ingeniería Informática,2
+EST00247,MOS,Ingeniería Ambiental,2
+EST00248,MOS,Ingeniería Ambiental,4
+EST00249,MOS,Ingeniería Ambiental,1
+EST00250,MOS,Ingeniería Informática,2
+EST00251,MOS,Biotecnología,1
+EST00252,MOS,Ingeniería del Software,1
+EST00253,MOS,Ingeniería Ambiental,4
+EST00254,MOS,Ingeniería del Software,4
+EST00255,MOS,Biotecnología,4
+EST00256,MOS,Biotecnología,2
+EST00257,MOS,Ciencia e Ingeniería de Datos,3
+EST00258,MOS,Ingeniería del Software,3
+EST00259,MOS,Ingeniería Ambiental,2
+EST00260,MOS,Biotecnología,1
+EST00261,MOS,Ciencia e Ingeniería de Datos,2
+EST00262,MOS,Ingeniería del Software,4
+EST00263,MOS,Ingeniería Informática,3
+EST00264,MOS,Ingeniería del Software,1
+EST00265,MOS,Ingeniería Informática,1
+EST00266,MOS,Ingeniería Informática,3
+EST00267,MOS,Ingeniería Ambiental,2
+EST00268,MOS,Ciencia e Ingeniería de Datos,2
+EST00269,MOS,Ingeniería del Software,3
+EST00270,MOS,Ingeniería Informática,3
+EST00271,MOS,Ingeniería del Software,1
+EST00272,MOS,Biotecnología,1
+EST00273,MOS,Ciencia e Ingeniería de Datos,1
+EST00274,MOS,Biotecnología,1
+EST00275,MOS,Biotecnología,4
+EST00276,MOS,Biotecnología,4
+EST00277,MOS,Ingeniería Informática,3
+EST00278,MOS,Ingeniería Informática,3
+EST00279,MOS,Biotecnología,3
+EST00280,MOS,Biotecnología,3
+EST00281,MOS,Biotecnología,3
+EST00282,MOS,Ingeniería Ambiental,3
+EST00283,MOS,Ingeniería Ambiental,4
+EST00284,MOS,Ingeniería Informática,1
+EST00285,MOS,Ciencia e Ingeniería de Datos,3
+EST00286,MOS,Biotecnología,2
+EST00287,MOS,Ingeniería del Software,1
+EST00288,MOS,Ciencia e Ingeniería de Datos,2
+EST00289,MOS,Ingeniería del Software,4
+EST00290,MOS,Ingeniería Ambiental,4
+EST00291,MOS,Ciencia e Ingeniería de Datos,3
+EST00292,MOS,Ciencia e Ingeniería de Datos,1
+EST00293,MOS,Ingeniería Informática,2
+EST00294,MOS,Ingeniería Informática,3
+EST00295,MOS,Ciencia e Ingeniería de Datos,4
+EST00296,MOS,Ingeniería Informática,2
+EST00297,MOS,Biotecnología,2
+EST00298,MOS,Ingeniería Ambiental,1
+EST00299,MOS,Ingeniería del Software,2
+EST00300,MOS,Ingeniería del Software,2
+EST00301,MOS,Ingeniería Ambiental,2
+EST00302,MOS,Biotecnología,2
+EST00303,MOS,Ciencia e Ingeniería de Datos,1
+EST00304,MOS,Ciencia e Ingeniería de Datos,3
+EST00305,MOS,Ingeniería del Software,3
+EST00306,MOS,Ingeniería del Software,1
+EST00307,MOS,Ciencia e Ingeniería de Datos,2
+EST00308,MOS,Ingeniería Ambiental,2
+EST00309,MOS,Ingeniería Informática,4
+EST00310,MOS,Ingeniería Ambiental,3
+EST00311,MOS,Ingeniería Informática,4
+EST00312,MOS,Ingeniería Informática,1
+EST00313,MOS,Biotecnología,4
+EST00314,MOS,Ciencia e Ingeniería de Datos,1
+EST00315,MOS,Ingeniería del Software,1
+EST00316,MOS,Ingeniería del Software,4
+EST00317,MOS,Ciencia e Ingeniería de Datos,1
+EST00318,MOS,Ingeniería Informática,1
+EST00319,MOS,Ciencia e Ingeniería de Datos,1
+EST00320,MOS,Biotecnología,4
+EST00321,MOS,Ingeniería Informática,3
+EST00322,MOS,Biotecnología,1
+EST00323,MOS,Biotecnología,1
+EST00324,MOS,Ingeniería del Software,1
+EST00325,MOS,Ingeniería del Software,1
+EST00326,MOS,Ingeniería Ambiental,2
+EST00327,MOS,Biotecnología,3
+EST00328,MOS,Biotecnología,1
+EST00329,MOS,Biotecnología,2
+EST00330,MOS,Ingeniería Informática,4
+EST00331,MOS,Ingeniería Ambiental,1
+EST00332,MOS,Ingeniería del Software,3
+EST00333,MOS,Ingeniería del Software,3
+EST00334,MOS,Ciencia e Ingeniería de Datos,3
+EST00335,MOS,Ingeniería del Software,4
+EST00336,MOS,Ingeniería Ambiental,2
+EST00337,MOS,Ingeniería del Software,3
+EST00338,MOS,Ingeniería Informática,1
+EST00339,MOS,Ingeniería Ambiental,3
+EST00340,MOS,Biotecnología,1
+EST00341,MOS,Ingeniería Informática,3
+EST00342,MOS,Ingeniería Informática,4
+EST00343,MOS,Ingeniería Ambiental,1
+EST00344,MOS,Ciencia e Ingeniería de Datos,2
+EST00345,MOS,Biotecnología,2
+EST00346,MOS,Ingeniería Ambiental,2
+EST00347,MOS,Ingeniería Informática,2
+EST00348,MOS,Ingeniería Ambiental,1
+EST00349,MOS,Ciencia e Ingeniería de Datos,4
+EST00350,MOS,Ingeniería Ambiental,3
+EST00351,MOS,Ciencia e Ingeniería de Datos,1
+EST00352,MOS,Ingeniería del Software,4
+EST00353,MOS,Biotecnología,3
+EST00354,MOS,Ingeniería del Software,1
+EST00355,MOS,Ingeniería Informática,1
+EST00356,MOS,Ingeniería Ambiental,4
+EST00357,MOS,Ingeniería Informática,2
+EST00358,MOS,Ciencia e Ingeniería de Datos,2
+EST00359,MOS,Ciencia e Ingeniería de Datos,1
+EST00360,MOS,Ingeniería del Software,3
+EST00361,MOS,Ingeniería del Software,1
+EST00362,MOS,Ingeniería del Software,4
+EST00363,MOS,Biotecnología,2
+EST00364,MOS,Biotecnología,3
+EST00365,MOS,Ingeniería Ambiental,1
+EST00366,MOS,Biotecnología,2
+EST00367,MOS,Biotecnología,2
+EST00368,MOS,Biotecnología,1
+EST00369,MOS,Ingeniería Informática,4
+EST00370,MOS,Ingeniería Informática,3
+EST00371,MOS,Ingeniería del Software,3
+EST00372,MOS,Ciencia e Ingeniería de Datos,4
+EST00373,MOS,Ingeniería Informática,3
+EST00374,MOS,Ingeniería Informática,4
+EST00375,MOS,Ingeniería Informática,3
+EST00376,MOS,Biotecnología,1
+EST00377,MOS,Ingeniería Informática,3
+EST00378,MOS,Ciencia e Ingeniería de Datos,1
+EST00379,MOS,Ingeniería del Software,4
+EST00380,MOS,Ciencia e Ingeniería de Datos,4
+EST00381,MOS,Ingeniería Ambiental,4
+EST00382,MOS,Ingeniería Informática,4
+EST00383,MOS,Ciencia e Ingeniería de Datos,2
+EST00384,MOS,Ciencia e Ingeniería de Datos,2
+EST00385,MOS,Ingeniería Informática,4
+EST00386,MOS,Ingeniería Informática,3
+EST00387,MOS,Ingeniería del Software,1
+EST00388,MOS,Ciencia e Ingeniería de Datos,4
+EST00389,MOS,Ingeniería del Software,3
+EST00390,MOS,Ingeniería Informática,2
+EST00391,MOS,Ingeniería Ambiental,4
+EST00392,MOS,Biotecnología,1
+EST00393,MOS,Ciencia e Ingeniería de Datos,1
+EST00394,MOS,Biotecnología,3
+EST00395,MOS,Ciencia e Ingeniería de Datos,4
+EST00396,MOS,Biotecnología,2
+EST00397,MOS,Ciencia e Ingeniería de Datos,1
+EST00398,MOS,Ingeniería del Software,2
+EST00399,MOS,Ingeniería del Software,1
+EST00400,MOS,Ingeniería Informática,4
+EST00401,MOS,Ingeniería Ambiental,4
+EST00402,MOS,Ingeniería Informática,4
+EST00403,MOS,Ciencia e Ingeniería de Datos,3
+EST00404,MOS,Biotecnología,3
+EST00405,MOS,Ciencia e Ingeniería de Datos,2
+EST00406,MOS,Ingeniería del Software,4
+EST00407,MOS,Ingeniería Informática,2
+EST00408,MOS,Biotecnología,4
+EST00409,MOS,Biotecnología,3
+EST00410,MOS,Biotecnología,2
+EST00411,MOS,Biotecnología,2
+EST00412,MOS,Ingeniería del Software,1
+EST00413,MOS,Biotecnología,1
+EST00414,MOS,Biotecnología,1
+EST00415,MOS,Ciencia e Ingeniería de Datos,1
+EST00416,MOS,Biotecnología,3
+EST00417,MOS,Ingeniería Ambiental,4
+EST00418,MOS,Ingeniería del Software,4
+EST00419,MOS,Ingeniería Informática,3
+EST00420,MOS,Ingeniería del Software,3
+EST00421,MOS,Biotecnología,3
+EST00422,MOS,Ingeniería del Software,2
+EST00423,MOS,Ingeniería del Software,2
+EST00424,MOS,Ingeniería del Software,3
+EST00425,MOS,Ingeniería Ambiental,1
+EST00426,MOS,Ingeniería Ambiental,2
+EST00427,MOS,Ingeniería Informática,3
+EST00428,MOS,Ingeniería Ambiental,4
+EST00429,MOS,Biotecnología,3
+EST00430,MOS,Ingeniería Informática,1
+EST00431,MOS,Ingeniería del Software,4
+EST00432,MOS,Ingeniería Ambiental,2
+EST00433,MOS,Biotecnología,3
+EST00434,MOS,Ingeniería del Software,2
+EST00435,MOS,Ingeniería Ambiental,1
+EST00436,MOS,Ingeniería Informática,3
+EST00437,MOS,Ciencia e Ingeniería de Datos,2
+EST00438,MOS,Ingeniería Ambiental,2
+EST00439,MOS,Ciencia e Ingeniería de Datos,4
+EST00440,MOS,Ciencia e Ingeniería de Datos,1
+EST00441,MOS,Ingeniería Ambiental,3
+EST00442,MOS,Ingeniería Ambiental,3
+EST00443,MOS,Ingeniería del Software,4
+EST00444,MOS,Biotecnología,3
+EST00445,MOS,Ingeniería Informática,2
+EST00446,MOS,Ingeniería Ambiental,3
+EST00447,MOS,Ingeniería del Software,1
+EST00448,MOS,Ingeniería del Software,3
+EST00449,MOS,Biotecnología,1
+EST00450,MOS,Ingeniería Informática,2
+EST00451,MOS,Ingeniería Informática,1
+EST00452,MOS,Ingeniería Informática,1
+EST00453,MOS,Ingeniería Informática,2
+EST00454,MOS,Biotecnología,2
+EST00455,MOS,Biotecnología,2
+EST00456,MOS,Ingeniería Informática,4
+EST00457,MOS,Ingeniería Ambiental,4
+EST00458,MOS,Ciencia e Ingeniería de Datos,2
+EST00459,MOS,Ciencia e Ingeniería de Datos,3
+EST00460,MOS,Ingeniería Ambiental,4
+EST00461,MOS,Ingeniería Ambiental,2
+EST00462,MOS,Ingeniería Ambiental,4
+EST00463,MOS,Ingeniería Ambiental,2
+EST00464,MOS,Biotecnología,1
+EST00465,MOS,Ingeniería del Software,1
+EST00466,MOS,Ingeniería del Software,2
+EST00467,MOS,Ingeniería Ambiental,2
+EST00468,MOS,Ingeniería Informática,4
+EST00469,MOS,Biotecnología,4
+EST00470,MOS,Ingeniería del Software,3
+EST00471,MOS,Ingeniería Ambiental,2
+EST00472,MOS,Ciencia e Ingeniería de Datos,2
+EST00473,MOS,Ciencia e Ingeniería de Datos,4
+EST00474,MOS,Ingeniería Ambiental,2
+EST00475,MOS,Ingeniería Informática,1
+EST00476,MOS,Ingeniería Ambiental,3
+EST00477,MOS,Biotecnología,3
+EST00478,MOS,Ciencia e Ingeniería de Datos,2
+EST00479,MOS,Ingeniería Informática,1
+EST00480,MOS,Biotecnología,2
+EST00481,MOS,Ciencia e Ingeniería de Datos,2
+EST00482,MOS,Ingeniería Informática,2
+EST00483,MOS,Ciencia e Ingeniería de Datos,2
+EST00484,MOS,Ingeniería Ambiental,1
+EST00485,MOS,Ingeniería del Software,4
+EST00486,MOS,Ingeniería Ambiental,1
+EST00487,MOS,Biotecnología,4
+EST00488,MOS,Ingeniería Informática,4
+EST00489,MOS,Biotecnología,2
+EST00490,MOS,Ingeniería del Software,4
+EST00491,MOS,Ingeniería Informática,2
+EST00492,MOS,Ingeniería del Software,3
+EST00493,MOS,Biotecnología,3
+EST00494,MOS,Ingeniería del Software,2
+EST00495,MOS,Ingeniería Informática,3
+EST00496,MOS,Biotecnología,4
+EST00497,MOS,Ciencia e Ingeniería de Datos,1
+EST00498,MOS,Ingeniería del Software,1
+EST00499,MOS,Ingeniería Informática,1
+EST00500,MOS,Ingeniería del Software,3
+EST00501,MOS,Ingeniería del Software,3
+EST00502,MOS,Ingeniería Informática,4
+EST00503,MOS,Ingeniería Ambiental,3
+EST00504,MOS,Ingeniería del Software,1
+EST00505,MOS,Ingeniería del Software,1
+EST00506,MOS,Ingeniería del Software,4
+EST00507,MOS,Biotecnología,2
+EST00508,MOS,Ingeniería Ambiental,1
+EST00509,MOS,Ciencia e Ingeniería de Datos,2
+EST00510,MOS,Biotecnología,4
+EST00511,MOS,Ingeniería Ambiental,1
+EST00512,MOS,Biotecnología,1
+EST00513,MOS,Biotecnología,2
+EST00514,MOS,Ingeniería del Software,1
+EST00515,MOS,Biotecnología,1
+EST00516,MOS,Ciencia e Ingeniería de Datos,2
+EST00517,MOS,Biotecnología,2
+EST00518,MOS,Biotecnología,4
+EST00519,MOS,Ingeniería Ambiental,2
+EST00520,MOS,Ingeniería del Software,1
+EST00521,MOS,Biotecnología,1
+EST00522,MOS,Biotecnología,1
+EST00523,MOS,Ingeniería Ambiental,1
+EST00524,MOS,Ingeniería Informática,2
+EST00525,MOS,Biotecnología,1
+EST00526,MOS,Ingeniería Informática,1
+EST00527,MOS,Biotecnología,1
+EST00528,MOS,Ingeniería Ambiental,1
+EST00529,MOS,Ingeniería Informática,2
+EST00530,MOS,Biotecnología,4
+EST00531,MOS,Ingeniería Ambiental,3
+EST00532,MOS,Biotecnología,3
+EST00533,MOS,Biotecnología,3
+EST00534,MOS,Biotecnología,1
+EST00535,MOS,Ingeniería Ambiental,1
+EST00536,MOS,Ingeniería Ambiental,3
+EST00537,MOS,Ingeniería del Software,1
+EST00538,MOS,Ingeniería Informática,2
+EST00539,MOS,Ingeniería del Software,3
+EST00540,MOS,Ingeniería Informática,2
+EST00541,MOS,Biotecnología,2
+EST00542,MOS,Ingeniería del Software,4
+EST00543,MOS,Ciencia e Ingeniería de Datos,2
+EST00544,MOS,Biotecnología,3
+EST00545,MOS,Ingeniería Informática,1
+EST00546,MOS,Ingeniería Ambiental,2
+EST00547,MOS,Biotecnología,2
+EST00548,MOS,Ingeniería del Software,1
+EST00549,MOS,Ingeniería del Software,3
+EST00550,MOS,Biotecnología,1
+EST00551,MOS,Ingeniería Ambiental,2
+EST00552,MOS,Biotecnología,2
+EST00553,MOS,Ingeniería Informática,1
+EST00554,MOS,Ingeniería del Software,1
+EST00555,MOS,Ingeniería Ambiental,4
+EST00556,MOS,Ingeniería Ambiental,1
+EST00557,MOS,Biotecnología,3
+EST00558,MOS,Ingeniería Ambiental,2
+EST00559,MOS,Ingeniería del Software,2
+EST00560,MOS,Ingeniería Ambiental,2
+EST00561,MOS,Ingeniería Informática,3
+EST00562,MOS,Ingeniería Ambiental,3
+EST00563,MOS,Ingeniería del Software,3
+EST00564,MOS,Ingeniería Ambiental,3
+EST00565,MOS,Ingeniería Ambiental,1
+EST00566,MOS,Ciencia e Ingeniería de Datos,1
+EST00567,MOS,Ingeniería del Software,2
+EST00568,MOS,Ingeniería Informática,1
+EST00569,MOS,Ingeniería Informática,2
+EST00570,MOS,Ingeniería Informática,3
+EST00571,MOS,Ciencia e Ingeniería de Datos,2
+EST00572,MOS,Ingeniería Informática,4
+EST00573,MOS,Ciencia e Ingeniería de Datos,4
+EST00574,MOS,Ingeniería Informática,3
+EST00575,MOS,Ingeniería Informática,2
+EST00576,MOS,Ingeniería del Software,1
+EST00577,MOS,Ingeniería Informática,3
+EST00578,MOS,Ingeniería Informática,1
+EST00579,MOS,Ingeniería Informática,2
+EST00580,MOS,Ingeniería Ambiental,3
+EST00581,MOS,Ingeniería Ambiental,3
+EST00582,MOS,Ingeniería Ambiental,4
+EST00583,MOS,Ingeniería Informática,4
+EST00584,MOS,Ingeniería del Software,1
+EST00585,MOS,Ciencia e Ingeniería de Datos,1
+EST00586,MOS,Ciencia e Ingeniería de Datos,2
+EST00587,MOS,Biotecnología,1
+EST00588,MOS,Ingeniería del Software,3
+EST00589,MOS,Biotecnología,3
+EST00590,MOS,Ingeniería Informática,4
+EST00591,MOS,Ingeniería del Software,2
+EST00592,MOS,Ciencia e Ingeniería de Datos,4
+EST00593,MOS,Ingeniería del Software,1
+EST00594,MOS,Ingeniería Ambiental,4
+EST00595,MOS,Ciencia e Ingeniería de Datos,4
+EST00596,MOS,Ingeniería Ambiental,4
+EST00597,MOS,Ciencia e Ingeniería de Datos,4
+EST00598,MOS,Ciencia e Ingeniería de Datos,4
+EST00599,MOS,Ingeniería del Software,4
+EST00600,MOS,Ciencia e Ingeniería de Datos,2
+EST00601,MOS,Ingeniería Informática,1
+EST00602,MOS,Ingeniería del Software,1
+EST00603,MOS,Ingeniería del Software,4
+EST00604,MOS,Ingeniería Informática,1
+EST00605,MOS,Biotecnología,1
+EST00606,MOS,Ingeniería Ambiental,2
+EST00607,MOS,Ciencia e Ingeniería de Datos,3
+EST00608,MOS,Ciencia e Ingeniería de Datos,2
+EST00609,MOS,Ingeniería Informática,1
+EST00610,MOS,Ingeniería Informática,1
+EST00611,MOS,Ingeniería Informática,1
+EST00612,MOS,Biotecnología,4
+EST00613,MOS,Ingeniería Informática,2
+EST00614,MOS,Biotecnología,1
+EST00615,MOS,Ingeniería del Software,2
+EST00616,MOS,Ingeniería Ambiental,1
+EST00617,MOS,Ingeniería del Software,1
+EST00618,MOS,Ciencia e Ingeniería de Datos,2
+EST00619,MOS,Ingeniería del Software,4
+EST00620,MOS,Ingeniería Ambiental,4
+EST00621,MOS,Ingeniería Informática,3
+EST00622,MOS,Ingeniería Ambiental,3
+EST00623,MOS,Ingeniería Ambiental,4
+EST00624,MOS,Ingeniería Ambiental,3
+EST00625,MOS,Ingeniería Informática,2
+EST00626,MOS,Biotecnología,1
+EST00627,MOS,Biotecnología,4
+EST00628,MOS,Ingeniería Ambiental,3
+EST00629,MOS,Ingeniería del Software,2
+EST00630,MOS,Ingeniería Informática,2
+EST00631,MOS,Ciencia e Ingeniería de Datos,4
+EST00632,MOS,Ingeniería del Software,1
+EST00633,MOS,Biotecnología,4
+EST00634,MOS,Ingeniería Ambiental,2
+EST00635,MOS,Biotecnología,3
+EST00636,MOS,Ingeniería del Software,2
+EST00637,MOS,Ingeniería Ambiental,2
+EST00638,MOS,Ingeniería del Software,1
+EST00639,MOS,Ciencia e Ingeniería de Datos,2
+EST00640,MOS,Biotecnología,2
+EST00641,MOS,Ingeniería Ambiental,2
+EST00642,MOS,Ingeniería del Software,3
+EST00643,MOS,Ciencia e Ingeniería de Datos,2
+EST00644,MOS,Biotecnología,1
+EST00645,MOS,Ingeniería Informática,3
+EST00646,MOS,Ingeniería Ambiental,4
+EST00647,MOS,Ingeniería Ambiental,4
+EST00648,MOS,Ingeniería Informática,3
+EST00649,MOS,Ciencia e Ingeniería de Datos,3
+EST00650,MOS,Ingeniería del Software,3
+EST00651,MOS,Ingeniería Ambiental,3
+EST00652,MOS,Ingeniería Ambiental,4
+EST00653,MOS,Ingeniería del Software,2
+EST00654,MOS,Ingeniería del Software,1
+EST00655,MOS,Biotecnología,2
+EST00656,MOS,Ingeniería Informática,4
+EST00657,MOS,Ingeniería del Software,1
+EST00658,MOS,Ciencia e Ingeniería de Datos,3
+EST00659,MOS,Ingeniería del Software,1
+EST00660,MOS,Ingeniería del Software,2
+EST00661,MOS,Biotecnología,4
+EST00662,MOS,Ingeniería Ambiental,2
+EST00663,MOS,Ingeniería Informática,2
+EST00664,MOS,Ingeniería Informática,3
+EST00665,MOS,Ingeniería Informática,2
+EST00666,MOS,Ingeniería del Software,2
+EST00667,MOS,Ciencia e Ingeniería de Datos,2
+EST00668,MOS,Ingeniería Informática,2
+EST00669,MOS,Ingeniería Ambiental,2
+EST00670,MOS,Ciencia e Ingeniería de Datos,3
+EST00671,MOS,Ingeniería Ambiental,2
+EST00672,MOS,Ingeniería del Software,3
+EST00673,MOS,Ingeniería Informática,1
+EST00674,MOS,Biotecnología,2
+EST00675,MOS,Ciencia e Ingeniería de Datos,1
+EST00676,MOS,Ingeniería del Software,1
+EST00677,MOS,Biotecnología,1
+EST00678,MOS,Ciencia e Ingeniería de Datos,1
+EST00679,MOS,Ingeniería Informática,3
+EST00680,MOS,Ciencia e Ingeniería de Datos,3
+EST00681,MOS,Ciencia e Ingeniería de Datos,2
+EST00682,MOS,Ingeniería Informática,4
+EST00683,MOS,Ingeniería del Software,3
+EST00684,MOS,Ingeniería del Software,1
+EST00685,MOS,Ciencia e Ingeniería de Datos,4
+EST00686,MOS,Ingeniería del Software,4
+EST00687,MOS,Ingeniería Ambiental,1
+EST00688,MOS,Ingeniería del Software,1
+EST00689,MOS,Biotecnología,2
+EST00690,MOS,Ciencia e Ingeniería de Datos,4
+EST00691,MOS,Ingeniería Informática,1
+EST00692,MOS,Ingeniería Informática,3
+EST00693,MOS,Ingeniería Informática,3
+EST00694,MOS,Biotecnología,2
+EST00695,MOS,Ingeniería Ambiental,1
+EST00696,MOS,Ingeniería Ambiental,3
+EST00697,MOS,Ingeniería Ambiental,4
+EST00698,MOS,Biotecnología,4
+EST00699,MOS,Ingeniería Informática,4
+EST00700,MOS,Ingeniería Ambiental,4
+EST00701,MOS,Biotecnología,2
+EST00702,MOS,Ingeniería Ambiental,4
+EST00703,MOS,Ingeniería Informática,2
+EST00704,MOS,Biotecnología,2
+EST00705,MOS,Ciencia e Ingeniería de Datos,1
+EST00706,MOS,Ingeniería del Software,4
+EST00707,MOS,Ingeniería Informática,4
+EST00708,MOS,Ingeniería Ambiental,2
+EST00709,MOS,Ingeniería del Software,1
+EST00710,MOS,Ingeniería Informática,1
+EST00711,MOS,Ingeniería Ambiental,1
+EST00712,MOS,Biotecnología,2
+EST00713,MOS,Biotecnología,1
+EST00714,MOS,Ciencia e Ingeniería de Datos,3
+EST00715,MOS,Ciencia e Ingeniería de Datos,2
+EST00716,MOS,Biotecnología,2
+EST00717,MOS,Ingeniería Ambiental,2
+EST00718,MOS,Ingeniería Ambiental,1
+EST00719,MOS,Ingeniería del Software,1
+EST00720,MOS,Ingeniería Ambiental,3
+EST00721,MOS,Biotecnología,3
+EST00722,MOS,Ciencia e Ingeniería de Datos,3
+EST00723,MOS,Ingeniería Ambiental,4
+EST00724,MOS,Biotecnología,2
+EST00725,MOS,Ciencia e Ingeniería de Datos,1
+EST00726,MOS,Ingeniería Informática,3
+EST00727,MOS,Biotecnología,1
+EST00728,MOS,Ciencia e Ingeniería de Datos,3
+EST00729,MOS,Ingeniería Ambiental,2
+EST00730,MOS,Ingeniería del Software,1
+EST00731,MOS,Ingeniería del Software,2
+EST00732,MOS,Ingeniería Ambiental,3
+EST00733,MOS,Ingeniería Informática,4
+EST00734,MOS,Ingeniería Informática,4
+EST00735,MOS,Ciencia e Ingeniería de Datos,3
+EST00736,MOS,Biotecnología,3
+EST00737,MOS,Ingeniería Ambiental,4
+EST00738,MOS,Ingeniería Informática,1
+EST00739,MOS,Biotecnología,3
+EST00740,MOS,Ciencia e Ingeniería de Datos,3
+EST00741,MOS,Biotecnología,3
+EST00742,MOS,Biotecnología,1
+EST00743,MOS,Ingeniería Ambiental,3
+EST00744,MOS,Ingeniería del Software,3
+EST00745,MOS,Ingeniería Informática,2
+EST00746,MOS,Ciencia e Ingeniería de Datos,3
+EST00747,MOS,Ingeniería del Software,1
+EST00748,MOS,Biotecnología,1
+EST00749,MOS,Ingeniería Informática,2
+EST00750,MOS,Ingeniería Informática,2
+EST00751,MOS,Biotecnología,4
+EST00752,MOS,Ingeniería del Software,4
+EST00753,MOS,Ciencia e Ingeniería de Datos,4
+EST00754,MOS,Ingeniería del Software,4
+EST00755,MOS,Ingeniería del Software,3
+EST00756,MOS,Ingeniería Ambiental,4
+EST00757,MOS,Ciencia e Ingeniería de Datos,4
+EST00758,MOS,Ingeniería del Software,4
+EST00759,MOS,Ingeniería del Software,3
+EST00760,MOS,Ingeniería Ambiental,1
+EST00761,MOS,Ingeniería del Software,1
+EST00762,MOS,Ingeniería Informática,1
+EST00763,MOS,Ingeniería Informática,3
+EST00764,MOS,Ingeniería Informática,3
+EST00765,MOS,Ingeniería Ambiental,2
+EST00766,MOS,Ingeniería Informática,3
+EST00767,MOS,Ingeniería Informática,3
+EST00768,MOS,Ciencia e Ingeniería de Datos,2
+EST00769,MOS,Ingeniería del Software,1
+EST00770,MOS,Ingeniería Informática,2
+EST00771,MOS,Biotecnología,2
+EST00772,MOS,Ingeniería del Software,3
+EST00773,MOS,Ingeniería Ambiental,1
+EST00774,MOS,Biotecnología,3
+EST00775,MOS,Ciencia e Ingeniería de Datos,4
+EST00776,MOS,Ciencia e Ingeniería de Datos,2
+EST00777,MOS,Ingeniería Ambiental,1
+EST00778,MOS,Biotecnología,2
+EST00779,MOS,Ingeniería del Software,4
+EST00780,MOS,Ciencia e Ingeniería de Datos,3
+EST00781,MOS,Ingeniería Informática,1
+EST00782,MOS,Ciencia e Ingeniería de Datos,2
+EST00783,MOS,Ciencia e Ingeniería de Datos,4
+EST00784,MOS,Ingeniería Informática,4
+EST00785,MOS,Biotecnología,3
+EST00786,MOS,Ingeniería Ambiental,4
+EST00787,MOS,Ciencia e Ingeniería de Datos,2
+EST00788,MOS,Ciencia e Ingeniería de Datos,2
+EST00789,MOS,Biotecnología,1
+EST00790,MOS,Ingeniería Informática,3
+EST00791,MOS,Biotecnología,2
+EST00792,MOS,Ciencia e Ingeniería de Datos,1
+EST00793,MOS,Ingeniería Ambiental,1
+EST00794,MOS,Biotecnología,3
+EST00795,MOS,Ingeniería del Software,3
+EST00796,MOS,Ciencia e Ingeniería de Datos,1
+EST00797,MOS,Biotecnología,2
+EST00798,MOS,Biotecnología,3
+EST00799,MOS,Ingeniería Ambiental,1
+EST00800,MOS,Biotecnología,3
+EST00801,MOS,Biotecnología,3
+EST00802,MOS,Ingeniería del Software,1
+EST00803,MOS,Ingeniería Ambiental,4
+EST00804,MOS,Ingeniería Informática,3
+EST00805,MOS,Biotecnología,2
+EST00806,MOS,Ingeniería Ambiental,4
+EST00807,MOS,Ingeniería del Software,2
+EST00808,MOS,Biotecnología,3
+EST00809,MOS,Ingeniería del Software,1
+EST00810,MOS,Ingeniería Ambiental,3
+EST00811,MOS,Ingeniería del Software,3
+EST00812,MOS,Ingeniería Ambiental,4
+EST00813,MOS,Ingeniería del Software,2
+EST00814,MOS,Ciencia e Ingeniería de Datos,3
+EST00815,MOS,Ingeniería Informática,2
+EST00816,MOS,Ingeniería Informática,1
+EST00817,MOS,Ingeniería del Software,3
+EST00818,MOS,Ingeniería del Software,3
+EST00819,MOS,Ingeniería Informática,2
+EST00820,MOS,Ingeniería del Software,2
+EST00821,MOS,Ciencia e Ingeniería de Datos,1
+EST00822,MOS,Ingeniería del Software,1
+EST00823,MOS,Ciencia e Ingeniería de Datos,2
+EST00824,MOS,Ciencia e Ingeniería de Datos,1
+EST00825,MOS,Ciencia e Ingeniería de Datos,4
+EST00826,MOS,Ciencia e Ingeniería de Datos,4
+EST00827,MOS,Ingeniería del Software,2
+EST00828,MOS,Ingeniería Ambiental,4
+EST00829,MOS,Ingeniería Ambiental,4
+EST00830,MOS,Ciencia e Ingeniería de Datos,2
+EST00831,MOS,Ciencia e Ingeniería de Datos,1
+EST00832,MOS,Ingeniería Informática,1
+EST00833,MOS,Ingeniería del Software,2
+EST00834,MOS,Ciencia e Ingeniería de Datos,3
+EST00835,MOS,Ciencia e Ingeniería de Datos,4
+EST00836,MOS,Ingeniería del Software,2
+EST00837,MOS,Ingeniería Informática,2
+EST00838,MOS,Ingeniería Ambiental,4
+EST00839,MOS,Ingeniería del Software,1
+EST00840,MOS,Biotecnología,3
+EST00841,MOS,Ciencia e Ingeniería de Datos,4
+EST00842,MOS,Ingeniería del Software,3
+EST00843,MOS,Ciencia e Ingeniería de Datos,3
+EST00844,MOS,Biotecnología,2
+EST00845,MOS,Ingeniería Informática,3
+EST00846,MOS,Ingeniería Ambiental,3
+EST00847,MOS,Biotecnología,1
+EST00848,MOS,Ingeniería Informática,1
+EST00849,MOS,Ciencia e Ingeniería de Datos,1
+EST00850,MOS,Ingeniería Ambiental,4
+EST00851,MOS,Ingeniería Ambiental,2
+EST00852,MOS,Ingeniería Informática,3
+EST00853,MOS,Ciencia e Ingeniería de Datos,3
+EST00854,MOS,Biotecnología,1
+EST00855,MOS,Ciencia e Ingeniería de Datos,2
+EST00856,MOS,Ingeniería Ambiental,2
+EST00857,MOS,Ciencia e Ingeniería de Datos,3
+EST00858,MOS,Biotecnología,2
+EST00859,MOS,Ciencia e Ingeniería de Datos,1
+EST00860,MOS,Ingeniería del Software,1
+EST00861,MOS,Ingeniería del Software,4
+EST00862,MOS,Ingeniería Informática,1
+EST00863,MOS,Ingeniería Informática,2
+EST00864,MOS,Ingeniería Ambiental,2
+EST00865,MOS,Ingeniería Ambiental,2
+EST00866,MOS,Ingeniería Informática,3
+EST00867,MOS,Ingeniería del Software,4
+EST00868,MOS,Ingeniería Ambiental,3
+EST00869,MOS,Ingeniería Ambiental,3
+EST00870,MOS,Biotecnología,2
+EST00871,MOS,Ciencia e Ingeniería de Datos,2
+EST00872,MOS,Ingeniería Ambiental,1
+EST00873,MOS,Ciencia e Ingeniería de Datos,2
+EST00874,MOS,Ingeniería Informática,2
+EST00875,MOS,Biotecnología,3
+EST00876,MOS,Ingeniería del Software,3
+EST00877,MOS,Ingeniería del Software,4
+EST00878,MOS,Ingeniería del Software,2
+EST00879,MOS,Ingeniería Informática,4
+EST00880,MOS,Ingeniería Informática,2
+EST00881,MOS,Biotecnología,2
+EST00882,MOS,Ciencia e Ingeniería de Datos,2
+EST00883,MOS,Ingeniería Ambiental,3
+EST00884,MOS,Ingeniería Ambiental,1
+EST00885,MOS,Biotecnología,2
+EST00886,MOS,Ingeniería Ambiental,1
+EST00887,MOS,Ingeniería del Software,3
+EST00888,MOS,Ingeniería Informática,1
+EST00889,MOS,Ingeniería Ambiental,1
+EST00890,MOS,Ingeniería Ambiental,1
+EST00891,MOS,Ciencia e Ingeniería de Datos,2
+EST00892,MOS,Ingeniería del Software,1
+EST00893,MOS,Ingeniería del Software,1
+EST00894,MOS,Ingeniería Informática,4
+EST00895,MOS,Ingeniería Informática,1
+EST00896,MOS,Ingeniería Ambiental,4
+EST00897,MOS,Ciencia e Ingeniería de Datos,1
+EST00898,MOS,Ingeniería Ambiental,2
+EST00899,MOS,Biotecnología,2
+EST00900,MOS,Ingeniería del Software,2
+EST00901,MOS,Ingeniería Informática,2
+EST00902,MOS,Ingeniería del Software,1
+EST00903,MOS,Biotecnología,2
+EST00904,MOS,Ingeniería Informática,4
+EST00905,MOS,Ingeniería Informática,4
+EST00906,MOS,Biotecnología,3
+EST00907,MOS,Ingeniería Ambiental,1
+EST00908,MOS,Ingeniería del Software,2
+EST00909,MOS,Biotecnología,1
+EST00910,MOS,Ingeniería Ambiental,3
+EST00911,MOS,Ingeniería del Software,3
+EST00912,MOS,Ingeniería del Software,3
+EST00913,MOS,Ciencia e Ingeniería de Datos,2
+EST00914,MOS,Biotecnología,3
+EST00915,MOS,Ciencia e Ingeniería de Datos,4
+EST00916,MOS,Biotecnología,1
+EST00917,MOS,Ingeniería del Software,3
+EST00918,MOS,Ingeniería Ambiental,1
+EST00919,MOS,Ciencia e Ingeniería de Datos,4
+EST00920,MOS,Ingeniería del Software,1
+EST00921,MOS,Ingeniería Informática,1
+EST00922,MOS,Ingeniería Informática,3
+EST00923,MOS,Biotecnología,3
+EST00924,MOS,Ingeniería del Software,3
+EST00925,MOS,Ingeniería Informática,2
+EST00926,MOS,Ingeniería Ambiental,1
+EST00927,MOS,Ingeniería Ambiental,4
+EST00928,MOS,Ciencia e Ingeniería de Datos,1
+EST00929,MOS,Ingeniería Informática,4
+EST00930,MOS,Ciencia e Ingeniería de Datos,4
+EST00931,MOS,Ingeniería Informática,3
+EST00932,MOS,Ingeniería Ambiental,2
+EST00933,MOS,Ingeniería del Software,2
+EST00934,MOS,Ingeniería del Software,3
+EST00935,MOS,Biotecnología,1
+EST00936,MOS,Ingeniería Ambiental,2
+EST00937,MOS,Ciencia e Ingeniería de Datos,1
+EST00938,MOS,Ingeniería del Software,4
+EST00939,MOS,Ingeniería Informática,3
+EST00940,MOS,Ingeniería Ambiental,3
+EST00941,MOS,Ingeniería Informática,2
+EST00942,MOS,Biotecnología,1
+EST00943,MOS,Ingeniería Informática,3
+EST00944,MOS,Ingeniería Informática,3
+EST00945,MOS,Ciencia e Ingeniería de Datos,1
+EST00946,MOS,Ciencia e Ingeniería de Datos,3
+EST00947,MOS,Ingeniería Informática,1
+EST00948,MOS,Ciencia e Ingeniería de Datos,4
+EST00949,MOS,Ingeniería Ambiental,1
+EST00950,MOS,Ingeniería Ambiental,1
+EST00951,MOS,Biotecnología,3
+EST00952,MOS,Ingeniería del Software,1
+EST00953,MOS,Biotecnología,4
+EST00954,MOS,Ciencia e Ingeniería de Datos,1
+EST00955,MOS,Ciencia e Ingeniería de Datos,3
+EST00956,MOS,Ciencia e Ingeniería de Datos,2
+EST00957,MOS,Ciencia e Ingeniería de Datos,3
+EST00958,MOS,Ingeniería Ambiental,1
+EST00959,MOS,Biotecnología,1
+EST00960,MOS,Ciencia e Ingeniería de Datos,4
+EST00961,MOS,Biotecnología,3
+EST00962,MOS,Ingeniería Informática,4
+EST00963,MOS,Ingeniería del Software,2
+EST00964,MOS,Ingeniería Informática,3
+EST00965,MOS,Ingeniería del Software,4
+EST00966,MOS,Ingeniería del Software,2
+EST00967,MOS,Biotecnología,4
+EST00968,MOS,Ingeniería del Software,2
+EST00969,MOS,Biotecnología,1
+EST00970,MOS,Ingeniería Informática,4
+EST00971,MOS,Ingeniería Ambiental,2
+EST00972,MOS,Ingeniería Ambiental,2
+EST00973,MOS,Ciencia e Ingeniería de Datos,1
+EST00974,MOS,Ingeniería Informática,1
+EST00975,MOS,Biotecnología,4
+EST00976,MOS,Ingeniería del Software,2
+EST00977,MOS,Ingeniería Informática,1
+EST00978,MOS,Ciencia e Ingeniería de Datos,2
+EST00979,MOS,Ingeniería Informática,4
+EST00980,MOS,Ingeniería Informática,2
+EST00981,MOS,Ingeniería Ambiental,2
+EST00982,MOS,Biotecnología,2
+EST00983,MOS,Ciencia e Ingeniería de Datos,2
+EST00984,MOS,Ingeniería Ambiental,2
+EST00985,MOS,Ciencia e Ingeniería de Datos,2
+EST00986,MOS,Biotecnología,3
+EST00987,MOS,Ingeniería Informática,1
+EST00988,MOS,Ingeniería Ambiental,2
+EST00989,MOS,Ingeniería del Software,4
+EST00990,MOS,Ingeniería Informática,4
+EST00991,MOS,Ingeniería Ambiental,3
+EST00992,MOS,Ingeniería del Software,2
+EST00993,MOS,Ingeniería Ambiental,2
+EST00994,MOS,Ingeniería Ambiental,1
+EST00995,MOS,Ingeniería Ambiental,4
+EST00996,MOS,Ingeniería Informática,1
+EST00997,MOS,Ingeniería Informática,1
+EST00998,MOS,Ingeniería Ambiental,2
+EST00999,MOS,Ingeniería Ambiental,3
+EST01000,MOS,Ingeniería del Software,4
+EST01001,MOS,Ingeniería Informática,1
+EST01002,MOS,Biotecnología,2
+EST01003,MOS,Biotecnología,2
+EST01004,MOS,Ciencia e Ingeniería de Datos,2
+EST01005,MOS,Ingeniería del Software,4
+EST01006,MOS,Ingeniería del Software,3
+EST01007,MOS,Biotecnología,2
+EST01008,MOS,Ciencia e Ingeniería de Datos,2
+EST01009,MOS,Biotecnología,4
+EST01010,MOS,Ingeniería Informática,2
+EST01011,MOS,Ciencia e Ingeniería de Datos,4
+EST01012,MOS,Biotecnología,3
+EST01013,MOS,Ciencia e Ingeniería de Datos,1
+EST01014,MOS,Biotecnología,3
+EST01015,MOS,Ingeniería del Software,3
+EST01016,MOS,Biotecnología,1
+EST01017,MOS,Ingeniería Ambiental,2
+EST01018,MOS,Ciencia e Ingeniería de Datos,4
+EST01019,MOS,Ingeniería del Software,4
+EST01020,MOS,Ciencia e Ingeniería de Datos,2
+EST01021,MOS,Ingeniería del Software,2
+EST01022,MOS,Ingeniería del Software,3
+EST01023,MOS,Ingeniería del Software,2
+EST01024,MOS,Biotecnología,1
+EST01025,MOS,Ciencia e Ingeniería de Datos,1
+EST01026,MOS,Ingeniería Informática,3
+EST01027,MOS,Ingeniería Informática,3
+EST01028,MOS,Ingeniería Ambiental,2
+EST01029,MOS,Ciencia e Ingeniería de Datos,1
+EST01030,MOS,Ingeniería del Software,1
+EST01031,MOS,Ingeniería del Software,2
+EST01032,MOS,Ingeniería Ambiental,4
+EST01033,MOS,Ingeniería Informática,3
+EST01034,MOS,Biotecnología,1
+EST01035,MOS,Ciencia e Ingeniería de Datos,3
+EST01036,MOS,Ingeniería Informática,4
+EST01037,MOS,Biotecnología,2
+EST01038,MOS,Ingeniería Informática,1
+EST01039,MOS,Ingeniería del Software,1
+EST01040,MOS,Ingeniería Ambiental,3
+EST01041,MOS,Biotecnología,2
+EST01042,MOS,Biotecnología,2
+EST01043,MOS,Ingeniería del Software,1
+EST01044,MOS,Ingeniería Informática,3
+EST01045,MOS,Ingeniería Ambiental,4
+EST01046,MOS,Ciencia e Ingeniería de Datos,3
+EST01047,MOS,Ingeniería Informática,4
+EST01048,MOS,Ciencia e Ingeniería de Datos,3
+EST01049,MOS,Ingeniería del Software,4
+EST01050,MOS,Biotecnología,2
+EST01051,MOS,Ingeniería del Software,2
+EST01052,MOS,Biotecnología,2
+EST01053,MOS,Ciencia e Ingeniería de Datos,1
+EST01054,MOS,Ingeniería del Software,1
+EST01055,MOS,Biotecnología,2
+EST01056,MOS,Ingeniería del Software,1
+EST01057,MOS,Ingeniería Ambiental,2
+EST01058,MOS,Biotecnología,1
+EST01059,MOS,Biotecnología,3
+EST01060,MOS,Ciencia e Ingeniería de Datos,2
+EST01061,MOS,Ciencia e Ingeniería de Datos,2
+EST01062,MOS,Biotecnología,1
+EST01063,MOS,Biotecnología,2
+EST01064,MOS,Biotecnología,4
+EST01065,MOS,Biotecnología,1
+EST01066,MOS,Ciencia e Ingeniería de Datos,4
+EST01067,MOS,Ciencia e Ingeniería de Datos,1
+EST01068,MOS,Ingeniería Ambiental,3
+EST01069,MOS,Biotecnología,3
+EST01070,MOS,Ingeniería Informática,2
+EST01071,MOS,Ingeniería Ambiental,4
+EST01072,MOS,Ingeniería Ambiental,3
+EST01073,MOS,Ingeniería Informática,1
+EST01074,MOS,Ingeniería Informática,2
+EST01075,MOS,Ingeniería del Software,2
+EST01076,MOS,Ingeniería Ambiental,1
+EST01077,MOS,Ingeniería Ambiental,3
+EST01078,MOS,Biotecnología,2
+EST01079,MOS,Ingeniería Ambiental,1
+EST01080,MOS,Ingeniería Ambiental,4
+EST01081,MOS,Ciencia e Ingeniería de Datos,3
+EST01082,MOS,Biotecnología,2
+EST01083,MOS,Ingeniería Ambiental,3
+EST01084,MOS,Biotecnología,2
+EST01085,MOS,Ingeniería Informática,1
+EST01086,MOS,Ciencia e Ingeniería de Datos,4
+EST01087,MOS,Biotecnología,3
+EST01088,MOS,Ingeniería Ambiental,1
+EST01089,MOS,Biotecnología,2
+EST01090,MOS,Biotecnología,2
+EST01091,MOS,Ingeniería Ambiental,3
+EST01092,MOS,Ingeniería Ambiental,4
+EST01093,MOS,Ingeniería Informática,1
+EST01094,MOS,Ciencia e Ingeniería de Datos,1
+EST01095,MOS,Ingeniería del Software,1
+EST01096,MOS,Biotecnología,2
+EST01097,MOS,Ciencia e Ingeniería de Datos,1
+EST01098,MOS,Biotecnología,1
+EST01099,MOS,Ingeniería Informática,3
+EST01100,MOS,Biotecnología,3
+EST01101,MOS,Ingeniería Ambiental,4
+EST01102,MOS,Ciencia e Ingeniería de Datos,3
+EST01103,MOS,Ciencia e Ingeniería de Datos,2
+EST01104,MOS,Ingeniería del Software,3
+EST01105,MOS,Ciencia e Ingeniería de Datos,2
+EST01106,MOS,Ingeniería del Software,4
+EST01107,MOS,Ciencia e Ingeniería de Datos,4
+EST01108,MOS,Biotecnología,3
+EST01109,MOS,Ingeniería Ambiental,3
+EST01110,MOS,Biotecnología,1
+EST01111,MOS,Ingeniería Ambiental,2
+EST01112,MOS,Ciencia e Ingeniería de Datos,4
+EST01113,MOS,Biotecnología,3
+EST01114,MOS,Ingeniería Informática,4
+EST01115,MOS,Ingeniería del Software,4
+EST01116,MOS,Ciencia e Ingeniería de Datos,1
+EST01117,MOS,Ingeniería Ambiental,3
+EST01118,MOS,Ingeniería Informática,1
+EST01119,MOS,Ciencia e Ingeniería de Datos,4
+EST01120,MOS,Ingeniería del Software,3
+EST01121,FUE,Periodismo,4
+EST01122,FUE,Ingeniería de Telecomunicación,3
+EST01123,FUE,Ingeniería Aeroespacial,1
+EST01124,FUE,Periodismo,4
+EST01125,FUE,Ingeniería de Telecomunicación,4
+EST01126,FUE,Comunicación Audiovisual,2
+EST01127,FUE,Ingeniería de Telecomunicación,1
+EST01128,FUE,Comunicación Audiovisual,2
+EST01129,FUE,Ingeniería de Telecomunicación,3
+EST01130,FUE,Ingeniería de Telecomunicación,3
+EST01131,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01132,FUE,Comunicación Audiovisual,4
+EST01133,FUE,Ingeniería de Telecomunicación,3
+EST01134,FUE,Ingeniería de Telecomunicación,1
+EST01135,FUE,Ingeniería de Telecomunicación,2
+EST01136,FUE,Comunicación Audiovisual,4
+EST01137,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01138,FUE,Ingeniería Aeroespacial,1
+EST01139,FUE,Comunicación Audiovisual,2
+EST01140,FUE,Ingeniería Aeroespacial,1
+EST01141,FUE,Comunicación Audiovisual,2
+EST01142,FUE,Ingeniería Aeroespacial,1
+EST01143,FUE,Ingeniería Aeroespacial,3
+EST01144,FUE,Periodismo,4
+EST01145,FUE,Periodismo,2
+EST01146,FUE,Ingeniería de Telecomunicación,1
+EST01147,FUE,Ingeniería de Telecomunicación,2
+EST01148,FUE,Ingeniería de Telecomunicación,1
+EST01149,FUE,Periodismo,1
+EST01150,FUE,Comunicación Audiovisual,1
+EST01151,FUE,Comunicación Audiovisual,3
+EST01152,FUE,Comunicación Audiovisual,4
+EST01153,FUE,Ingeniería Aeroespacial,4
+EST01154,FUE,Ingeniería de Telecomunicación,1
+EST01155,FUE,Ingeniería Aeroespacial,3
+EST01156,FUE,Ingeniería Aeroespacial,1
+EST01157,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01158,FUE,Comunicación Audiovisual,2
+EST01159,FUE,Comunicación Audiovisual,3
+EST01160,FUE,Ingeniería de Telecomunicación,2
+EST01161,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01162,FUE,Comunicación Audiovisual,4
+EST01163,FUE,Comunicación Audiovisual,3
+EST01164,FUE,Ingeniería Aeroespacial,4
+EST01165,FUE,Periodismo,3
+EST01166,FUE,Periodismo,1
+EST01167,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01168,FUE,Comunicación Audiovisual,1
+EST01169,FUE,Ingeniería Aeroespacial,1
+EST01170,FUE,Ingeniería de Telecomunicación,1
+EST01171,FUE,Ingeniería de Telecomunicación,2
+EST01172,FUE,Ingeniería Aeroespacial,2
+EST01173,FUE,Comunicación Audiovisual,1
+EST01174,FUE,Ingeniería de Telecomunicación,4
+EST01175,FUE,Periodismo,4
+EST01176,FUE,Ingeniería de Telecomunicación,3
+EST01177,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01178,FUE,Ingeniería de Telecomunicación,1
+EST01179,FUE,Comunicación Audiovisual,3
+EST01180,FUE,Ingeniería de Telecomunicación,1
+EST01181,FUE,Ingeniería de Telecomunicación,2
+EST01182,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01183,FUE,Comunicación Audiovisual,3
+EST01184,FUE,Comunicación Audiovisual,1
+EST01185,FUE,Comunicación Audiovisual,4
+EST01186,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01187,FUE,Ingeniería de Telecomunicación,3
+EST01188,FUE,Ingeniería de Telecomunicación,3
+EST01189,FUE,Periodismo,3
+EST01190,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01191,FUE,Ingeniería Aeroespacial,1
+EST01192,FUE,Periodismo,1
+EST01193,FUE,Ingeniería Aeroespacial,1
+EST01194,FUE,Ingeniería Aeroespacial,1
+EST01195,FUE,Comunicación Audiovisual,1
+EST01196,FUE,Periodismo,1
+EST01197,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01198,FUE,Comunicación Audiovisual,2
+EST01199,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01200,FUE,Comunicación Audiovisual,2
+EST01201,FUE,Ingeniería Aeroespacial,1
+EST01202,FUE,Comunicación Audiovisual,1
+EST01203,FUE,Comunicación Audiovisual,2
+EST01204,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01205,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01206,FUE,Comunicación Audiovisual,1
+EST01207,FUE,Comunicación Audiovisual,1
+EST01208,FUE,Ingeniería de Telecomunicación,3
+EST01209,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01210,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01211,FUE,Ingeniería de Telecomunicación,1
+EST01212,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01213,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01214,FUE,Periodismo,1
+EST01215,FUE,Comunicación Audiovisual,1
+EST01216,FUE,Periodismo,3
+EST01217,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01218,FUE,Comunicación Audiovisual,3
+EST01219,FUE,Periodismo,2
+EST01220,FUE,Comunicación Audiovisual,1
+EST01221,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01222,FUE,Periodismo,2
+EST01223,FUE,Ingeniería Aeroespacial,2
+EST01224,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01225,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01226,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01227,FUE,Comunicación Audiovisual,1
+EST01228,FUE,Comunicación Audiovisual,3
+EST01229,FUE,Ingeniería de Telecomunicación,4
+EST01230,FUE,Comunicación Audiovisual,3
+EST01231,FUE,Periodismo,4
+EST01232,FUE,Comunicación Audiovisual,3
+EST01233,FUE,Comunicación Audiovisual,1
+EST01234,FUE,Ingeniería Aeroespacial,3
+EST01235,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01236,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01237,FUE,Periodismo,1
+EST01238,FUE,Ingeniería Aeroespacial,3
+EST01239,FUE,Periodismo,4
+EST01240,FUE,Comunicación Audiovisual,2
+EST01241,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01242,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01243,FUE,Ingeniería Aeroespacial,4
+EST01244,FUE,Periodismo,4
+EST01245,FUE,Ingeniería Aeroespacial,3
+EST01246,FUE,Comunicación Audiovisual,3
+EST01247,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01248,FUE,Periodismo,3
+EST01249,FUE,Periodismo,3
+EST01250,FUE,Periodismo,2
+EST01251,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01252,FUE,Ingeniería Aeroespacial,3
+EST01253,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01254,FUE,Ingeniería Aeroespacial,3
+EST01255,FUE,Ingeniería de Telecomunicación,4
+EST01256,FUE,Periodismo,3
+EST01257,FUE,Ingeniería Aeroespacial,3
+EST01258,FUE,Ingeniería Aeroespacial,3
+EST01259,FUE,Ingeniería de Telecomunicación,4
+EST01260,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01261,FUE,Comunicación Audiovisual,4
+EST01262,FUE,Comunicación Audiovisual,4
+EST01263,FUE,Ingeniería de Telecomunicación,1
+EST01264,FUE,Comunicación Audiovisual,3
+EST01265,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01266,FUE,Periodismo,2
+EST01267,FUE,Comunicación Audiovisual,2
+EST01268,FUE,Comunicación Audiovisual,3
+EST01269,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01270,FUE,Ingeniería Aeroespacial,4
+EST01271,FUE,Ingeniería de Telecomunicación,4
+EST01272,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01273,FUE,Periodismo,4
+EST01274,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01275,FUE,Ingeniería de Telecomunicación,2
+EST01276,FUE,Periodismo,4
+EST01277,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01278,FUE,Periodismo,4
+EST01279,FUE,Comunicación Audiovisual,2
+EST01280,FUE,Ingeniería Aeroespacial,2
+EST01281,FUE,Periodismo,2
+EST01282,FUE,Periodismo,2
+EST01283,FUE,Periodismo,3
+EST01284,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01285,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01286,FUE,Ingeniería de Telecomunicación,1
+EST01287,FUE,Ingeniería de Telecomunicación,2
+EST01288,FUE,Ingeniería Aeroespacial,3
+EST01289,FUE,Ingeniería de Telecomunicación,4
+EST01290,FUE,Ingeniería de Telecomunicación,3
+EST01291,FUE,Periodismo,1
+EST01292,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01293,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01294,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01295,FUE,Periodismo,4
+EST01296,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01297,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01298,FUE,Ingeniería de Telecomunicación,4
+EST01299,FUE,Comunicación Audiovisual,1
+EST01300,FUE,Ingeniería Aeroespacial,4
+EST01301,FUE,Ingeniería Aeroespacial,3
+EST01302,FUE,Periodismo,2
+EST01303,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01304,FUE,Comunicación Audiovisual,3
+EST01305,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01306,FUE,Ingeniería Aeroespacial,2
+EST01307,FUE,Comunicación Audiovisual,4
+EST01308,FUE,Periodismo,3
+EST01309,FUE,Periodismo,1
+EST01310,FUE,Comunicación Audiovisual,4
+EST01311,FUE,Ingeniería Aeroespacial,4
+EST01312,FUE,Comunicación Audiovisual,4
+EST01313,FUE,Ingeniería de Telecomunicación,4
+EST01314,FUE,Periodismo,1
+EST01315,FUE,Periodismo,3
+EST01316,FUE,Periodismo,4
+EST01317,FUE,Ingeniería Aeroespacial,4
+EST01318,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01319,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01320,FUE,Periodismo,1
+EST01321,FUE,Ingeniería Aeroespacial,2
+EST01322,FUE,Comunicación Audiovisual,3
+EST01323,FUE,Ingeniería de Telecomunicación,1
+EST01324,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01325,FUE,Ingeniería Aeroespacial,2
+EST01326,FUE,Periodismo,2
+EST01327,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01328,FUE,Comunicación Audiovisual,1
+EST01329,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01330,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01331,FUE,Ingeniería Aeroespacial,3
+EST01332,FUE,Ingeniería de Telecomunicación,2
+EST01333,FUE,Ingeniería Aeroespacial,2
+EST01334,FUE,Comunicación Audiovisual,3
+EST01335,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01336,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01337,FUE,Ingeniería Aeroespacial,2
+EST01338,FUE,Ingeniería de Telecomunicación,3
+EST01339,FUE,Periodismo,1
+EST01340,FUE,Ingeniería de Telecomunicación,4
+EST01341,FUE,Ingeniería Aeroespacial,3
+EST01342,FUE,Periodismo,3
+EST01343,FUE,Comunicación Audiovisual,1
+EST01344,FUE,Comunicación Audiovisual,4
+EST01345,FUE,Ingeniería de Telecomunicación,4
+EST01346,FUE,Ingeniería Aeroespacial,1
+EST01347,FUE,Ingeniería Aeroespacial,3
+EST01348,FUE,Periodismo,1
+EST01349,FUE,Ingeniería de Telecomunicación,3
+EST01350,FUE,Ingeniería de Telecomunicación,2
+EST01351,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01352,FUE,Ingeniería de Telecomunicación,3
+EST01353,FUE,Ingeniería de Telecomunicación,2
+EST01354,FUE,Ingeniería Aeroespacial,3
+EST01355,FUE,Periodismo,2
+EST01356,FUE,Ingeniería de Telecomunicación,1
+EST01357,FUE,Periodismo,1
+EST01358,FUE,Periodismo,1
+EST01359,FUE,Periodismo,2
+EST01360,FUE,Periodismo,3
+EST01361,FUE,Comunicación Audiovisual,4
+EST01362,FUE,Ingeniería de Telecomunicación,3
+EST01363,FUE,Ingeniería de Telecomunicación,1
+EST01364,FUE,Ingeniería Aeroespacial,1
+EST01365,FUE,Ingeniería de Telecomunicación,1
+EST01366,FUE,Ingeniería de Telecomunicación,4
+EST01367,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01368,FUE,Ingeniería de Telecomunicación,2
+EST01369,FUE,Comunicación Audiovisual,1
+EST01370,FUE,Ingeniería Aeroespacial,3
+EST01371,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01372,FUE,Ingeniería Aeroespacial,1
+EST01373,FUE,Comunicación Audiovisual,3
+EST01374,FUE,Comunicación Audiovisual,2
+EST01375,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01376,FUE,Comunicación Audiovisual,3
+EST01377,FUE,Periodismo,3
+EST01378,FUE,Ingeniería Aeroespacial,3
+EST01379,FUE,Ingeniería Aeroespacial,1
+EST01380,FUE,Ingeniería Aeroespacial,4
+EST01381,FUE,Comunicación Audiovisual,1
+EST01382,FUE,Ingeniería de Telecomunicación,3
+EST01383,FUE,Comunicación Audiovisual,1
+EST01384,FUE,Comunicación Audiovisual,3
+EST01385,FUE,Ingeniería de Telecomunicación,1
+EST01386,FUE,Ingeniería de Telecomunicación,1
+EST01387,FUE,Ingeniería Aeroespacial,2
+EST01388,FUE,Ingeniería de Telecomunicación,4
+EST01389,FUE,Ingeniería Aeroespacial,1
+EST01390,FUE,Ingeniería de Telecomunicación,1
+EST01391,FUE,Ingeniería Aeroespacial,2
+EST01392,FUE,Periodismo,1
+EST01393,FUE,Ingeniería Aeroespacial,2
+EST01394,FUE,Periodismo,1
+EST01395,FUE,Ingeniería de Telecomunicación,4
+EST01396,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01397,FUE,Comunicación Audiovisual,4
+EST01398,FUE,Comunicación Audiovisual,3
+EST01399,FUE,Ingeniería de Telecomunicación,4
+EST01400,FUE,Comunicación Audiovisual,2
+EST01401,FUE,Comunicación Audiovisual,1
+EST01402,FUE,Ingeniería Aeroespacial,3
+EST01403,FUE,Ingeniería de Telecomunicación,1
+EST01404,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01405,FUE,Ingeniería de Telecomunicación,1
+EST01406,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01407,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01408,FUE,Ingeniería Aeroespacial,3
+EST01409,FUE,Comunicación Audiovisual,1
+EST01410,FUE,Ingeniería de Telecomunicación,1
+EST01411,FUE,Ingeniería Aeroespacial,4
+EST01412,FUE,Ingeniería de Telecomunicación,4
+EST01413,FUE,Comunicación Audiovisual,2
+EST01414,FUE,Comunicación Audiovisual,3
+EST01415,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01416,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01417,FUE,Periodismo,2
+EST01418,FUE,Comunicación Audiovisual,3
+EST01419,FUE,Ingeniería de Telecomunicación,3
+EST01420,FUE,Periodismo,4
+EST01421,FUE,Comunicación Audiovisual,2
+EST01422,FUE,Periodismo,3
+EST01423,FUE,Periodismo,3
+EST01424,FUE,Ingeniería Aeroespacial,2
+EST01425,FUE,Ingeniería de Telecomunicación,2
+EST01426,FUE,Ingeniería de Telecomunicación,4
+EST01427,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01428,FUE,Periodismo,3
+EST01429,FUE,Comunicación Audiovisual,4
+EST01430,FUE,Comunicación Audiovisual,3
+EST01431,FUE,Periodismo,4
+EST01432,FUE,Ingeniería Aeroespacial,3
+EST01433,FUE,Comunicación Audiovisual,4
+EST01434,FUE,Periodismo,3
+EST01435,FUE,Ingeniería Aeroespacial,2
+EST01436,FUE,Ingeniería de Telecomunicación,3
+EST01437,FUE,Ingeniería Aeroespacial,4
+EST01438,FUE,Ingeniería de Telecomunicación,3
+EST01439,FUE,Comunicación Audiovisual,4
+EST01440,FUE,Comunicación Audiovisual,1
+EST01441,FUE,Ingeniería de Telecomunicación,4
+EST01442,FUE,Comunicación Audiovisual,2
+EST01443,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01444,FUE,Ingeniería de Telecomunicación,1
+EST01445,FUE,Periodismo,1
+EST01446,FUE,Ingeniería de Telecomunicación,1
+EST01447,FUE,Periodismo,3
+EST01448,FUE,Comunicación Audiovisual,1
+EST01449,FUE,Comunicación Audiovisual,1
+EST01450,FUE,Ingeniería Aeroespacial,3
+EST01451,FUE,Periodismo,1
+EST01452,FUE,Periodismo,3
+EST01453,FUE,Comunicación Audiovisual,4
+EST01454,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01455,FUE,Ingeniería Aeroespacial,1
+EST01456,FUE,Periodismo,4
+EST01457,FUE,Comunicación Audiovisual,1
+EST01458,FUE,Ingeniería Aeroespacial,4
+EST01459,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01460,FUE,Periodismo,1
+EST01461,FUE,Ingeniería Aeroespacial,1
+EST01462,FUE,Comunicación Audiovisual,4
+EST01463,FUE,Ingeniería de Telecomunicación,2
+EST01464,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01465,FUE,Ingeniería Aeroespacial,1
+EST01466,FUE,Ingeniería de Telecomunicación,4
+EST01467,FUE,Comunicación Audiovisual,4
+EST01468,FUE,Periodismo,4
+EST01469,FUE,Ingeniería de Telecomunicación,2
+EST01470,FUE,Ingeniería de Telecomunicación,3
+EST01471,FUE,Comunicación Audiovisual,2
+EST01472,FUE,Comunicación Audiovisual,1
+EST01473,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01474,FUE,Comunicación Audiovisual,4
+EST01475,FUE,Comunicación Audiovisual,1
+EST01476,FUE,Comunicación Audiovisual,1
+EST01477,FUE,Ingeniería de Telecomunicación,3
+EST01478,FUE,Ingeniería Aeroespacial,1
+EST01479,FUE,Comunicación Audiovisual,1
+EST01480,FUE,Ingeniería Aeroespacial,4
+EST01481,FUE,Comunicación Audiovisual,4
+EST01482,FUE,Comunicación Audiovisual,4
+EST01483,FUE,Comunicación Audiovisual,3
+EST01484,FUE,Comunicación Audiovisual,2
+EST01485,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01486,FUE,Periodismo,3
+EST01487,FUE,Comunicación Audiovisual,4
+EST01488,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01489,FUE,Comunicación Audiovisual,1
+EST01490,FUE,Periodismo,2
+EST01491,FUE,Periodismo,3
+EST01492,FUE,Periodismo,2
+EST01493,FUE,Comunicación Audiovisual,2
+EST01494,FUE,Ingeniería Aeroespacial,4
+EST01495,FUE,Comunicación Audiovisual,3
+EST01496,FUE,Ingeniería Aeroespacial,3
+EST01497,FUE,Ingeniería de Telecomunicación,1
+EST01498,FUE,Comunicación Audiovisual,2
+EST01499,FUE,Comunicación Audiovisual,1
+EST01500,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01501,FUE,Ingeniería Aeroespacial,2
+EST01502,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01503,FUE,Periodismo,4
+EST01504,FUE,Ingeniería de Telecomunicación,1
+EST01505,FUE,Periodismo,4
+EST01506,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01507,FUE,Comunicación Audiovisual,1
+EST01508,FUE,Ingeniería Aeroespacial,3
+EST01509,FUE,Periodismo,3
+EST01510,FUE,Periodismo,3
+EST01511,FUE,Ingeniería de Telecomunicación,2
+EST01512,FUE,Ingeniería Aeroespacial,3
+EST01513,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01514,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01515,FUE,Ingeniería de Telecomunicación,1
+EST01516,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01517,FUE,Ingeniería de Telecomunicación,3
+EST01518,FUE,Periodismo,4
+EST01519,FUE,Ingeniería Aeroespacial,1
+EST01520,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01521,FUE,Ingeniería Aeroespacial,1
+EST01522,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01523,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01524,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01525,FUE,Periodismo,1
+EST01526,FUE,Comunicación Audiovisual,4
+EST01527,FUE,Ingeniería Aeroespacial,2
+EST01528,FUE,Comunicación Audiovisual,4
+EST01529,FUE,Ingeniería Aeroespacial,4
+EST01530,FUE,Periodismo,4
+EST01531,FUE,Periodismo,1
+EST01532,FUE,Ingeniería de Telecomunicación,1
+EST01533,FUE,Ingeniería Aeroespacial,3
+EST01534,FUE,Periodismo,4
+EST01535,FUE,Ingeniería de Telecomunicación,2
+EST01536,FUE,Periodismo,3
+EST01537,FUE,Ingeniería Aeroespacial,4
+EST01538,FUE,Ingeniería de Telecomunicación,4
+EST01539,FUE,Comunicación Audiovisual,1
+EST01540,FUE,Ingeniería Aeroespacial,2
+EST01541,FUE,Ingeniería Aeroespacial,1
+EST01542,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01543,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01544,FUE,Comunicación Audiovisual,4
+EST01545,FUE,Comunicación Audiovisual,3
+EST01546,FUE,Comunicación Audiovisual,2
+EST01547,FUE,Ingeniería Aeroespacial,1
+EST01548,FUE,Ingeniería de Telecomunicación,2
+EST01549,FUE,Ingeniería Aeroespacial,4
+EST01550,FUE,Ingeniería de Telecomunicación,2
+EST01551,FUE,Ingeniería Aeroespacial,2
+EST01552,FUE,Ingeniería Aeroespacial,2
+EST01553,FUE,Comunicación Audiovisual,3
+EST01554,FUE,Ingeniería de Telecomunicación,1
+EST01555,FUE,Ingeniería Aeroespacial,2
+EST01556,FUE,Ingeniería Aeroespacial,4
+EST01557,FUE,Ingeniería Aeroespacial,4
+EST01558,FUE,Comunicación Audiovisual,4
+EST01559,FUE,Comunicación Audiovisual,1
+EST01560,FUE,Comunicación Audiovisual,4
+EST01561,FUE,Ingeniería de Telecomunicación,1
+EST01562,FUE,Ingeniería Aeroespacial,1
+EST01563,FUE,Comunicación Audiovisual,3
+EST01564,FUE,Comunicación Audiovisual,1
+EST01565,FUE,Ingeniería de Telecomunicación,4
+EST01566,FUE,Periodismo,2
+EST01567,FUE,Ingeniería de Telecomunicación,4
+EST01568,FUE,Periodismo,1
+EST01569,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01570,FUE,Ingeniería Aeroespacial,3
+EST01571,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01572,FUE,Ingeniería de Telecomunicación,4
+EST01573,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01574,FUE,Ingeniería de Telecomunicación,3
+EST01575,FUE,Periodismo,2
+EST01576,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01577,FUE,Periodismo,4
+EST01578,FUE,Ingeniería de Telecomunicación,3
+EST01579,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01580,FUE,Periodismo,2
+EST01581,FUE,Periodismo,3
+EST01582,FUE,Periodismo,2
+EST01583,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01584,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01585,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01586,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01587,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01588,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01589,FUE,Ingeniería Aeroespacial,3
+EST01590,FUE,Periodismo,3
+EST01591,FUE,Comunicación Audiovisual,1
+EST01592,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01593,FUE,Ingeniería de Telecomunicación,4
+EST01594,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01595,FUE,Ingeniería de Telecomunicación,4
+EST01596,FUE,Periodismo,4
+EST01597,FUE,Ingeniería de Telecomunicación,1
+EST01598,FUE,Ingeniería de Telecomunicación,1
+EST01599,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01600,FUE,Ingeniería de Telecomunicación,2
+EST01601,FUE,Ingeniería Aeroespacial,1
+EST01602,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01603,FUE,Periodismo,4
+EST01604,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01605,FUE,Ingeniería Aeroespacial,4
+EST01606,FUE,Comunicación Audiovisual,2
+EST01607,FUE,Periodismo,1
+EST01608,FUE,Ingeniería de Telecomunicación,2
+EST01609,FUE,Comunicación Audiovisual,1
+EST01610,FUE,Comunicación Audiovisual,3
+EST01611,FUE,Ingeniería Aeroespacial,3
+EST01612,FUE,Ingeniería Aeroespacial,2
+EST01613,FUE,Periodismo,3
+EST01614,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01615,FUE,Periodismo,1
+EST01616,FUE,Ingeniería de Telecomunicación,4
+EST01617,FUE,Comunicación Audiovisual,4
+EST01618,FUE,Comunicación Audiovisual,1
+EST01619,FUE,Periodismo,4
+EST01620,FUE,Ingeniería Aeroespacial,1
+EST01621,FUE,Ingeniería Aeroespacial,2
+EST01622,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01623,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01624,FUE,Periodismo,3
+EST01625,FUE,Ingeniería Aeroespacial,3
+EST01626,FUE,Periodismo,2
+EST01627,FUE,Ingeniería Aeroespacial,1
+EST01628,FUE,Comunicación Audiovisual,1
+EST01629,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01630,FUE,Ingeniería Aeroespacial,2
+EST01631,FUE,Ingeniería Aeroespacial,2
+EST01632,FUE,Periodismo,2
+EST01633,FUE,Ingeniería Aeroespacial,4
+EST01634,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01635,FUE,Comunicación Audiovisual,1
+EST01636,FUE,Comunicación Audiovisual,4
+EST01637,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01638,FUE,Comunicación Audiovisual,2
+EST01639,FUE,Comunicación Audiovisual,4
+EST01640,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01641,FUE,Periodismo,3
+EST01642,FUE,Comunicación Audiovisual,2
+EST01643,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01644,FUE,Ingeniería Aeroespacial,2
+EST01645,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01646,FUE,Ingeniería de Telecomunicación,2
+EST01647,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01648,FUE,Comunicación Audiovisual,2
+EST01649,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01650,FUE,Ingeniería de Telecomunicación,2
+EST01651,FUE,Periodismo,3
+EST01652,FUE,Ingeniería de Telecomunicación,1
+EST01653,FUE,Ingeniería Aeroespacial,3
+EST01654,FUE,Ingeniería Aeroespacial,1
+EST01655,FUE,Ingeniería de Telecomunicación,2
+EST01656,FUE,Ingeniería Aeroespacial,2
+EST01657,FUE,Ingeniería Aeroespacial,3
+EST01658,FUE,Ingeniería de Telecomunicación,2
+EST01659,FUE,Periodismo,3
+EST01660,FUE,Ingeniería de Telecomunicación,2
+EST01661,FUE,Comunicación Audiovisual,1
+EST01662,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01663,FUE,Ingeniería Aeroespacial,3
+EST01664,FUE,Periodismo,2
+EST01665,FUE,Ingeniería Aeroespacial,1
+EST01666,FUE,Comunicación Audiovisual,3
+EST01667,FUE,Ingeniería Aeroespacial,2
+EST01668,FUE,Comunicación Audiovisual,3
+EST01669,FUE,Ingeniería Aeroespacial,4
+EST01670,FUE,Ingeniería de Telecomunicación,3
+EST01671,FUE,Ingeniería Aeroespacial,4
+EST01672,FUE,Ingeniería Aeroespacial,4
+EST01673,FUE,Periodismo,4
+EST01674,FUE,Ingeniería Aeroespacial,4
+EST01675,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01676,FUE,Periodismo,2
+EST01677,FUE,Ingeniería de Telecomunicación,2
+EST01678,FUE,Comunicación Audiovisual,2
+EST01679,FUE,Ingeniería de Telecomunicación,1
+EST01680,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01681,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01682,FUE,Ingeniería de Telecomunicación,3
+EST01683,FUE,Periodismo,2
+EST01684,FUE,Comunicación Audiovisual,2
+EST01685,FUE,Comunicación Audiovisual,2
+EST01686,FUE,Comunicación Audiovisual,4
+EST01687,FUE,Comunicación Audiovisual,4
+EST01688,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01689,FUE,Ingeniería Aeroespacial,2
+EST01690,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01691,FUE,Periodismo,3
+EST01692,FUE,Ingeniería de Telecomunicación,1
+EST01693,FUE,Ingeniería de Telecomunicación,1
+EST01694,FUE,Ingeniería de Telecomunicación,1
+EST01695,FUE,Ingeniería de Telecomunicación,4
+EST01696,FUE,Ingeniería Aeroespacial,3
+EST01697,FUE,Ingeniería Aeroespacial,2
+EST01698,FUE,Periodismo,4
+EST01699,FUE,Ingeniería Aeroespacial,1
+EST01700,FUE,Comunicación Audiovisual,3
+EST01701,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01702,FUE,Ingeniería Aeroespacial,3
+EST01703,FUE,Periodismo,1
+EST01704,FUE,Periodismo,4
+EST01705,FUE,Ingeniería de Telecomunicación,4
+EST01706,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01707,FUE,Ingeniería de Telecomunicación,1
+EST01708,FUE,Periodismo,2
+EST01709,FUE,Ingeniería de Telecomunicación,1
+EST01710,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01711,FUE,Periodismo,1
+EST01712,FUE,Comunicación Audiovisual,4
+EST01713,FUE,Periodismo,2
+EST01714,FUE,Comunicación Audiovisual,3
+EST01715,FUE,Periodismo,3
+EST01716,FUE,Ingeniería Aeroespacial,2
+EST01717,FUE,Ingeniería de Telecomunicación,2
+EST01718,FUE,Comunicación Audiovisual,3
+EST01719,FUE,Periodismo,2
+EST01720,FUE,Ingeniería Aeroespacial,2
+EST01721,FUE,Comunicación Audiovisual,4
+EST01722,FUE,Comunicación Audiovisual,1
+EST01723,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01724,FUE,Ingeniería de Telecomunicación,2
+EST01725,FUE,Comunicación Audiovisual,4
+EST01726,FUE,Periodismo,4
+EST01727,FUE,Ingeniería de Telecomunicación,1
+EST01728,FUE,Periodismo,3
+EST01729,FUE,Periodismo,3
+EST01730,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01731,FUE,Comunicación Audiovisual,4
+EST01732,FUE,Comunicación Audiovisual,4
+EST01733,FUE,Ingeniería de Telecomunicación,2
+EST01734,FUE,Ingeniería Aeroespacial,4
+EST01735,FUE,Comunicación Audiovisual,1
+EST01736,FUE,Comunicación Audiovisual,3
+EST01737,FUE,Ingeniería Aeroespacial,1
+EST01738,FUE,Periodismo,3
+EST01739,FUE,Comunicación Audiovisual,4
+EST01740,FUE,Periodismo,1
+EST01741,FUE,Comunicación Audiovisual,2
+EST01742,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01743,FUE,Periodismo,1
+EST01744,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01745,FUE,Ingeniería Aeroespacial,3
+EST01746,FUE,Periodismo,4
+EST01747,FUE,Comunicación Audiovisual,4
+EST01748,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01749,FUE,Ingeniería de Telecomunicación,4
+EST01750,FUE,Ingeniería Aeroespacial,3
+EST01751,FUE,Periodismo,2
+EST01752,FUE,Comunicación Audiovisual,4
+EST01753,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01754,FUE,Comunicación Audiovisual,1
+EST01755,FUE,Periodismo,3
+EST01756,FUE,Ingeniería de Telecomunicación,3
+EST01757,FUE,Ingeniería de Telecomunicación,3
+EST01758,FUE,Periodismo,1
+EST01759,FUE,Ingeniería de Telecomunicación,1
+EST01760,FUE,Comunicación Audiovisual,4
+EST01761,FUE,Periodismo,3
+EST01762,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01763,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01764,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01765,FUE,Comunicación Audiovisual,1
+EST01766,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01767,FUE,Comunicación Audiovisual,4
+EST01768,FUE,Comunicación Audiovisual,1
+EST01769,FUE,Ingeniería Aeroespacial,3
+EST01770,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01771,FUE,Periodismo,2
+EST01772,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01773,FUE,Periodismo,3
+EST01774,FUE,Ingeniería de Telecomunicación,2
+EST01775,FUE,Diseño y Desarrollo de Videojuegos,2
+EST01776,FUE,Periodismo,3
+EST01777,FUE,Comunicación Audiovisual,2
+EST01778,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01779,FUE,Comunicación Audiovisual,2
+EST01780,FUE,Periodismo,4
+EST01781,FUE,Ingeniería Aeroespacial,1
+EST01782,FUE,Ingeniería Aeroespacial,3
+EST01783,FUE,Comunicación Audiovisual,4
+EST01784,FUE,Comunicación Audiovisual,2
+EST01785,FUE,Periodismo,2
+EST01786,FUE,Periodismo,3
+EST01787,FUE,Comunicación Audiovisual,1
+EST01788,FUE,Ingeniería de Telecomunicación,1
+EST01789,FUE,Periodismo,1
+EST01790,FUE,Periodismo,1
+EST01791,FUE,Ingeniería Aeroespacial,3
+EST01792,FUE,Ingeniería de Telecomunicación,1
+EST01793,FUE,Ingeniería de Telecomunicación,1
+EST01794,FUE,Ingeniería de Telecomunicación,2
+EST01795,FUE,Diseño y Desarrollo de Videojuegos,1
+EST01796,FUE,Periodismo,4
+EST01797,FUE,Diseño y Desarrollo de Videojuegos,3
+EST01798,FUE,Ingeniería de Telecomunicación,1
+EST01799,FUE,Diseño y Desarrollo de Videojuegos,4
+EST01800,FUE,Periodismo,1
+EST01801,VIC,Administración y Dirección de Empresas,1
+EST01802,VIC,Economía,3
+EST01803,VIC,Economía,3
+EST01804,VIC,Marketing,1
+EST01805,VIC,Turismo,4
+EST01806,VIC,Marketing,4
+EST01807,VIC,Derecho,2
+EST01808,VIC,Administración y Dirección de Empresas,4
+EST01809,VIC,Turismo,3
+EST01810,VIC,Turismo,3
+EST01811,VIC,Marketing,2
+EST01812,VIC,Economía,1
+EST01813,VIC,Economía,2
+EST01814,VIC,Administración y Dirección de Empresas,2
+EST01815,VIC,Administración y Dirección de Empresas,4
+EST01816,VIC,Administración y Dirección de Empresas,2
+EST01817,VIC,Economía,3
+EST01818,VIC,Marketing,1
+EST01819,VIC,Marketing,3
+EST01820,VIC,Economía,1
+EST01821,VIC,Administración y Dirección de Empresas,3
+EST01822,VIC,Marketing,1
+EST01823,VIC,Turismo,4
+EST01824,VIC,Marketing,3
+EST01825,VIC,Marketing,4
+EST01826,VIC,Economía,4
+EST01827,VIC,Derecho,3
+EST01828,VIC,Derecho,3
+EST01829,VIC,Administración y Dirección de Empresas,3
+EST01830,VIC,Marketing,2
+EST01831,VIC,Derecho,1
+EST01832,VIC,Economía,4
+EST01833,VIC,Marketing,1
+EST01834,VIC,Administración y Dirección de Empresas,3
+EST01835,VIC,Economía,1
+EST01836,VIC,Turismo,1
+EST01837,VIC,Economía,1
+EST01838,VIC,Economía,3
+EST01839,VIC,Marketing,1
+EST01840,VIC,Marketing,1
+EST01841,VIC,Derecho,1
+EST01842,VIC,Marketing,1
+EST01843,VIC,Economía,1
+EST01844,VIC,Derecho,1
+EST01845,VIC,Turismo,2
+EST01846,VIC,Marketing,2
+EST01847,VIC,Administración y Dirección de Empresas,1
+EST01848,VIC,Administración y Dirección de Empresas,4
+EST01849,VIC,Marketing,2
+EST01850,VIC,Marketing,4
+EST01851,VIC,Marketing,4
+EST01852,VIC,Marketing,3
+EST01853,VIC,Administración y Dirección de Empresas,1
+EST01854,VIC,Economía,3
+EST01855,VIC,Economía,1
+EST01856,VIC,Turismo,1
+EST01857,VIC,Administración y Dirección de Empresas,1
+EST01858,VIC,Administración y Dirección de Empresas,2
+EST01859,VIC,Derecho,3
+EST01860,VIC,Turismo,1
+EST01861,VIC,Turismo,3
+EST01862,VIC,Turismo,2
+EST01863,VIC,Marketing,4
+EST01864,VIC,Turismo,1
+EST01865,VIC,Derecho,1
+EST01866,VIC,Economía,1
+EST01867,VIC,Administración y Dirección de Empresas,3
+EST01868,VIC,Administración y Dirección de Empresas,1
+EST01869,VIC,Economía,2
+EST01870,VIC,Administración y Dirección de Empresas,4
+EST01871,VIC,Administración y Dirección de Empresas,4
+EST01872,VIC,Economía,3
+EST01873,VIC,Derecho,4
+EST01874,VIC,Turismo,1
+EST01875,VIC,Administración y Dirección de Empresas,3
+EST01876,VIC,Turismo,3
+EST01877,VIC,Marketing,1
+EST01878,VIC,Administración y Dirección de Empresas,3
+EST01879,VIC,Administración y Dirección de Empresas,3
+EST01880,VIC,Turismo,1
+EST01881,VIC,Economía,2
+EST01882,VIC,Economía,3
+EST01883,VIC,Economía,2
+EST01884,VIC,Administración y Dirección de Empresas,1
+EST01885,VIC,Marketing,3
+EST01886,VIC,Administración y Dirección de Empresas,1
+EST01887,VIC,Marketing,3
+EST01888,VIC,Economía,1
+EST01889,VIC,Derecho,3
+EST01890,VIC,Administración y Dirección de Empresas,2
+EST01891,VIC,Economía,2
+EST01892,VIC,Economía,1
+EST01893,VIC,Derecho,3
+EST01894,VIC,Turismo,1
+EST01895,VIC,Turismo,4
+EST01896,VIC,Derecho,4
+EST01897,VIC,Marketing,3
+EST01898,VIC,Turismo,2
+EST01899,VIC,Administración y Dirección de Empresas,4
+EST01900,VIC,Marketing,4
+EST01901,VIC,Economía,4
+EST01902,VIC,Administración y Dirección de Empresas,3
+EST01903,VIC,Derecho,2
+EST01904,VIC,Turismo,2
+EST01905,VIC,Derecho,1
+EST01906,VIC,Turismo,1
+EST01907,VIC,Economía,4
+EST01908,VIC,Administración y Dirección de Empresas,3
+EST01909,VIC,Turismo,4
+EST01910,VIC,Marketing,2
+EST01911,VIC,Economía,1
+EST01912,VIC,Economía,3
+EST01913,VIC,Economía,4
+EST01914,VIC,Turismo,4
+EST01915,VIC,Derecho,3
+EST01916,VIC,Administración y Dirección de Empresas,2
+EST01917,VIC,Economía,4
+EST01918,VIC,Derecho,1
+EST01919,VIC,Economía,4
+EST01920,VIC,Marketing,4
+EST01921,VIC,Turismo,2
+EST01922,VIC,Turismo,2
+EST01923,VIC,Marketing,2
+EST01924,VIC,Economía,1
+EST01925,VIC,Marketing,2
+EST01926,VIC,Derecho,1
+EST01927,VIC,Turismo,1
+EST01928,VIC,Turismo,4
+EST01929,VIC,Administración y Dirección de Empresas,3
+EST01930,VIC,Derecho,4
+EST01931,VIC,Derecho,3
+EST01932,VIC,Administración y Dirección de Empresas,4
+EST01933,VIC,Turismo,2
+EST01934,VIC,Derecho,2
+EST01935,VIC,Derecho,3
+EST01936,VIC,Economía,2
+EST01937,VIC,Administración y Dirección de Empresas,2
+EST01938,VIC,Marketing,1
+EST01939,VIC,Administración y Dirección de Empresas,2
+EST01940,VIC,Turismo,3
+EST01941,VIC,Marketing,4
+EST01942,VIC,Economía,4
+EST01943,VIC,Marketing,4
+EST01944,VIC,Marketing,1
+EST01945,VIC,Derecho,2
+EST01946,VIC,Economía,1
+EST01947,VIC,Administración y Dirección de Empresas,2
+EST01948,VIC,Economía,2
+EST01949,VIC,Marketing,1
+EST01950,VIC,Turismo,3
+EST01951,VIC,Turismo,3
+EST01952,VIC,Turismo,2
+EST01953,VIC,Marketing,1
+EST01954,VIC,Turismo,3
+EST01955,VIC,Derecho,3
+EST01956,VIC,Derecho,4
+EST01957,VIC,Marketing,3
+EST01958,VIC,Administración y Dirección de Empresas,2
+EST01959,VIC,Derecho,1
+EST01960,VIC,Turismo,3
+EST01961,VIC,Marketing,1
+EST01962,VIC,Turismo,1
+EST01963,VIC,Derecho,3
+EST01964,VIC,Marketing,1
+EST01965,VIC,Turismo,1
+EST01966,VIC,Marketing,2
+EST01967,VIC,Administración y Dirección de Empresas,1
+EST01968,VIC,Derecho,3
+EST01969,VIC,Derecho,2
+EST01970,VIC,Economía,1
+EST01971,VIC,Marketing,1
+EST01972,VIC,Economía,1
+EST01973,VIC,Marketing,3
+EST01974,VIC,Economía,4
+EST01975,VIC,Economía,4
+EST01976,VIC,Economía,2
+EST01977,VIC,Administración y Dirección de Empresas,4
+EST01978,VIC,Turismo,2
+EST01979,VIC,Economía,4
+EST01980,VIC,Administración y Dirección de Empresas,2
+EST01981,VIC,Turismo,3
+EST01982,VIC,Turismo,3
+EST01983,VIC,Derecho,3
+EST01984,VIC,Turismo,2
+EST01985,VIC,Derecho,4
+EST01986,VIC,Administración y Dirección de Empresas,2
+EST01987,VIC,Economía,3
+EST01988,VIC,Administración y Dirección de Empresas,4
+EST01989,VIC,Derecho,1
+EST01990,VIC,Derecho,1
+EST01991,VIC,Derecho,2
+EST01992,VIC,Turismo,1
+EST01993,VIC,Derecho,4
+EST01994,VIC,Turismo,1
+EST01995,VIC,Derecho,3
+EST01996,VIC,Marketing,1
+EST01997,VIC,Administración y Dirección de Empresas,2
+EST01998,VIC,Derecho,2
+EST01999,VIC,Marketing,2
+EST02000,VIC,Derecho,2
+EST02001,VIC,Administración y Dirección de Empresas,1
+EST02002,VIC,Economía,1
+EST02003,VIC,Derecho,1
+EST02004,VIC,Derecho,2
+EST02005,VIC,Marketing,4
+EST02006,VIC,Administración y Dirección de Empresas,4
+EST02007,VIC,Administración y Dirección de Empresas,1
+EST02008,VIC,Derecho,1
+EST02009,VIC,Derecho,1
+EST02010,VIC,Turismo,3
+EST02011,VIC,Economía,3
+EST02012,VIC,Marketing,3
+EST02013,VIC,Marketing,2
+EST02014,VIC,Derecho,1
+EST02015,VIC,Derecho,1
+EST02016,VIC,Turismo,3
+EST02017,VIC,Derecho,4
+EST02018,VIC,Administración y Dirección de Empresas,1
+EST02019,VIC,Administración y Dirección de Empresas,1
+EST02020,VIC,Economía,1
+EST02021,VIC,Derecho,4
+EST02022,VIC,Administración y Dirección de Empresas,2
+EST02023,VIC,Marketing,3
+EST02024,VIC,Marketing,1
+EST02025,VIC,Derecho,4
+EST02026,VIC,Marketing,1
+EST02027,VIC,Administración y Dirección de Empresas,3
+EST02028,VIC,Derecho,4
+EST02029,VIC,Economía,2
+EST02030,VIC,Economía,2
+EST02031,VIC,Marketing,4
+EST02032,VIC,Turismo,4
+EST02033,VIC,Turismo,4
+EST02034,VIC,Economía,1
+EST02035,VIC,Administración y Dirección de Empresas,1
+EST02036,VIC,Turismo,1
+EST02037,VIC,Economía,4
+EST02038,VIC,Economía,3
+EST02039,VIC,Economía,3
+EST02040,VIC,Turismo,3
+EST02041,VIC,Turismo,3
+EST02042,VIC,Economía,2
+EST02043,VIC,Turismo,3
+EST02044,VIC,Administración y Dirección de Empresas,3
+EST02045,VIC,Turismo,1
+EST02046,VIC,Economía,3
+EST02047,VIC,Derecho,3
+EST02048,VIC,Derecho,2
+EST02049,VIC,Marketing,1
+EST02050,VIC,Economía,1
+EST02051,VIC,Turismo,3
+EST02052,VIC,Economía,3
+EST02053,VIC,Marketing,1
+EST02054,VIC,Marketing,3
+EST02055,VIC,Turismo,4
+EST02056,VIC,Administración y Dirección de Empresas,3
+EST02057,VIC,Turismo,2
+EST02058,VIC,Derecho,3
+EST02059,VIC,Derecho,2
+EST02060,VIC,Marketing,2
+EST02061,VIC,Administración y Dirección de Empresas,4
+EST02062,VIC,Economía,3
+EST02063,VIC,Marketing,1
+EST02064,VIC,Administración y Dirección de Empresas,4
+EST02065,VIC,Marketing,3
+EST02066,VIC,Economía,4
+EST02067,VIC,Administración y Dirección de Empresas,1
+EST02068,VIC,Administración y Dirección de Empresas,2
+EST02069,VIC,Derecho,1
+EST02070,VIC,Turismo,1
+EST02071,VIC,Derecho,2
+EST02072,VIC,Administración y Dirección de Empresas,1
+EST02073,VIC,Derecho,2
+EST02074,VIC,Economía,3
+EST02075,VIC,Administración y Dirección de Empresas,2
+EST02076,VIC,Administración y Dirección de Empresas,1
+EST02077,VIC,Turismo,3
+EST02078,VIC,Marketing,1
+EST02079,VIC,Administración y Dirección de Empresas,2
+EST02080,VIC,Derecho,3
+EST02081,VIC,Economía,3
+EST02082,VIC,Turismo,4
+EST02083,VIC,Marketing,1
+EST02084,VIC,Turismo,3
+EST02085,VIC,Turismo,3
+EST02086,VIC,Economía,1
+EST02087,VIC,Administración y Dirección de Empresas,2
+EST02088,VIC,Economía,4
+EST02089,VIC,Administración y Dirección de Empresas,4
+EST02090,VIC,Turismo,1
+EST02091,VIC,Derecho,2
+EST02092,VIC,Administración y Dirección de Empresas,4
+EST02093,VIC,Economía,3
+EST02094,VIC,Administración y Dirección de Empresas,1
+EST02095,VIC,Derecho,4
+EST02096,VIC,Marketing,2
+EST02097,VIC,Derecho,4
+EST02098,VIC,Economía,3
+EST02099,VIC,Turismo,2
+EST02100,VIC,Turismo,4
+EST02101,VIC,Administración y Dirección de Empresas,3
+EST02102,VIC,Marketing,2
+EST02103,VIC,Marketing,1
+EST02104,VIC,Administración y Dirección de Empresas,2
+EST02105,VIC,Administración y Dirección de Empresas,1
+EST02106,VIC,Derecho,1
+EST02107,VIC,Derecho,2
+EST02108,VIC,Turismo,2
+EST02109,VIC,Economía,2
+EST02110,VIC,Marketing,2
+EST02111,VIC,Turismo,2
+EST02112,VIC,Derecho,4
+EST02113,VIC,Administración y Dirección de Empresas,3
+EST02114,VIC,Economía,2
+EST02115,VIC,Administración y Dirección de Empresas,2
+EST02116,VIC,Economía,3
+EST02117,VIC,Marketing,3
+EST02118,VIC,Administración y Dirección de Empresas,2
+EST02119,VIC,Administración y Dirección de Empresas,3
+EST02120,VIC,Administración y Dirección de Empresas,4
+EST02121,VIC,Marketing,4
+EST02122,VIC,Marketing,1
+EST02123,VIC,Administración y Dirección de Empresas,3
+EST02124,VIC,Economía,2
+EST02125,VIC,Marketing,2
+EST02126,VIC,Turismo,1
+EST02127,VIC,Turismo,2
+EST02128,VIC,Marketing,2
+EST02129,VIC,Administración y Dirección de Empresas,3
+EST02130,VIC,Turismo,1
+EST02131,VIC,Economía,2
+EST02132,VIC,Economía,4
+EST02133,VIC,Administración y Dirección de Empresas,3
+EST02134,VIC,Marketing,2
+EST02135,VIC,Derecho,3
+EST02136,VIC,Administración y Dirección de Empresas,4
+EST02137,VIC,Administración y Dirección de Empresas,1
+EST02138,VIC,Derecho,1
+EST02139,VIC,Turismo,2
+EST02140,VIC,Derecho,1
+EST02141,VIC,Administración y Dirección de Empresas,1
+EST02142,VIC,Derecho,2
+EST02143,VIC,Marketing,3
+EST02144,VIC,Economía,4
+EST02145,VIC,Derecho,2
+EST02146,VIC,Turismo,4
+EST02147,VIC,Economía,3
+EST02148,VIC,Marketing,1
+EST02149,VIC,Turismo,1
+EST02150,VIC,Marketing,1
+EST02151,VIC,Derecho,2
+EST02152,VIC,Economía,1
+EST02153,VIC,Administración y Dirección de Empresas,3
+EST02154,VIC,Marketing,2
+EST02155,VIC,Administración y Dirección de Empresas,1
+EST02156,VIC,Turismo,3
+EST02157,VIC,Turismo,1
+EST02158,VIC,Administración y Dirección de Empresas,1
+EST02159,VIC,Economía,3
+EST02160,VIC,Marketing,1
+EST02161,VIC,Economía,4
+EST02162,VIC,Derecho,1
+EST02163,VIC,Economía,2
+EST02164,VIC,Economía,2
+EST02165,VIC,Administración y Dirección de Empresas,4
+EST02166,VIC,Economía,4
+EST02167,VIC,Marketing,1
+EST02168,VIC,Derecho,3
+EST02169,VIC,Turismo,3
+EST02170,VIC,Marketing,2
+EST02171,VIC,Administración y Dirección de Empresas,2
+EST02172,VIC,Marketing,4
+EST02173,VIC,Marketing,2
+EST02174,VIC,Administración y Dirección de Empresas,1
+EST02175,VIC,Derecho,1
+EST02176,VIC,Turismo,1
+EST02177,VIC,Derecho,1
+EST02178,VIC,Administración y Dirección de Empresas,4
+EST02179,VIC,Derecho,1
+EST02180,VIC,Administración y Dirección de Empresas,1
+EST02181,VIC,Economía,1
+EST02182,VIC,Administración y Dirección de Empresas,2
+EST02183,VIC,Turismo,3
+EST02184,VIC,Derecho,4
+EST02185,VIC,Administración y Dirección de Empresas,3
+EST02186,VIC,Marketing,1
+EST02187,VIC,Administración y Dirección de Empresas,3
+EST02188,VIC,Administración y Dirección de Empresas,2
+EST02189,VIC,Marketing,2
+EST02190,VIC,Administración y Dirección de Empresas,1
+EST02191,VIC,Economía,4
+EST02192,VIC,Administración y Dirección de Empresas,3
+EST02193,VIC,Turismo,1
+EST02194,VIC,Economía,1
+EST02195,VIC,Marketing,3
+EST02196,VIC,Marketing,3
+EST02197,VIC,Turismo,3
+EST02198,VIC,Turismo,2
+EST02199,VIC,Derecho,1
+EST02200,VIC,Economía,1
+EST02201,VIC,Turismo,4
+EST02202,VIC,Administración y Dirección de Empresas,1
+EST02203,VIC,Marketing,3
+EST02204,VIC,Marketing,2
+EST02205,VIC,Marketing,3
+EST02206,VIC,Economía,3
+EST02207,VIC,Derecho,2
+EST02208,VIC,Turismo,2
+EST02209,VIC,Turismo,2
+EST02210,VIC,Turismo,2
+EST02211,VIC,Marketing,4
+EST02212,VIC,Administración y Dirección de Empresas,3
+EST02213,VIC,Turismo,2
+EST02214,VIC,Administración y Dirección de Empresas,4
+EST02215,VIC,Administración y Dirección de Empresas,2
+EST02216,VIC,Administración y Dirección de Empresas,3
+EST02217,VIC,Derecho,4
+EST02218,VIC,Marketing,1
+EST02219,VIC,Derecho,2
+EST02220,VIC,Economía,2
+EST02221,VIC,Administración y Dirección de Empresas,3
+EST02222,VIC,Derecho,3
+EST02223,VIC,Economía,2
+EST02224,VIC,Administración y Dirección de Empresas,2
+EST02225,VIC,Administración y Dirección de Empresas,3
+EST02226,VIC,Marketing,4
+EST02227,VIC,Marketing,2
+EST02228,VIC,Derecho,1
+EST02229,VIC,Economía,1
+EST02230,VIC,Economía,3
+EST02231,VIC,Derecho,4
+EST02232,VIC,Administración y Dirección de Empresas,4
+EST02233,VIC,Turismo,3
+EST02234,VIC,Administración y Dirección de Empresas,1
+EST02235,VIC,Derecho,4
+EST02236,VIC,Turismo,3
+EST02237,VIC,Turismo,1
+EST02238,VIC,Administración y Dirección de Empresas,1
+EST02239,VIC,Marketing,3
+EST02240,VIC,Administración y Dirección de Empresas,3
+EST02241,VIC,Turismo,4
+EST02242,VIC,Administración y Dirección de Empresas,3
+EST02243,VIC,Derecho,4
+EST02244,VIC,Marketing,2
+EST02245,VIC,Marketing,1
+EST02246,VIC,Economía,4
+EST02247,VIC,Derecho,3
+EST02248,VIC,Marketing,1
+EST02249,VIC,Derecho,3
+EST02250,VIC,Administración y Dirección de Empresas,4
+EST02251,VIC,Turismo,1
+EST02252,VIC,Marketing,1
+EST02253,VIC,Turismo,1
+EST02254,VIC,Administración y Dirección de Empresas,4
+EST02255,VIC,Turismo,1
+EST02256,VIC,Turismo,1
+EST02257,VIC,Derecho,1
+EST02258,VIC,Marketing,4
+EST02259,VIC,Marketing,4
+EST02260,VIC,Economía,1
+EST02261,VIC,Derecho,4
+EST02262,VIC,Derecho,4
+EST02263,VIC,Turismo,3
+EST02264,VIC,Administración y Dirección de Empresas,4
+EST02265,VIC,Turismo,2
+EST02266,VIC,Turismo,2
+EST02267,VIC,Turismo,3
+EST02268,VIC,Turismo,2
+EST02269,VIC,Administración y Dirección de Empresas,4
+EST02270,VIC,Derecho,3
+EST02271,VIC,Economía,3
+EST02272,VIC,Administración y Dirección de Empresas,1
+EST02273,VIC,Derecho,2
+EST02274,VIC,Economía,2
+EST02275,VIC,Derecho,3
+EST02276,VIC,Marketing,1
+EST02277,VIC,Economía,4
+EST02278,VIC,Turismo,1
+EST02279,VIC,Administración y Dirección de Empresas,1
+EST02280,VIC,Turismo,2
+EST02281,VIC,Turismo,1
+EST02282,VIC,Marketing,4
+EST02283,VIC,Economía,2
+EST02284,VIC,Economía,3
+EST02285,VIC,Economía,3
+EST02286,VIC,Administración y Dirección de Empresas,1
+EST02287,VIC,Derecho,2
+EST02288,VIC,Turismo,1
+EST02289,VIC,Economía,1
+EST02290,VIC,Marketing,3
+EST02291,VIC,Turismo,1
+EST02292,VIC,Economía,3
+EST02293,VIC,Turismo,4
+EST02294,VIC,Turismo,3
+EST02295,VIC,Marketing,1
+EST02296,VIC,Marketing,3
+EST02297,VIC,Administración y Dirección de Empresas,1
+EST02298,VIC,Marketing,3
+EST02299,VIC,Economía,2
+EST02300,VIC,Administración y Dirección de Empresas,1
+EST02301,VIC,Turismo,3
+EST02302,VIC,Administración y Dirección de Empresas,3
+EST02303,VIC,Marketing,3
+EST02304,VIC,Turismo,3
+EST02305,VIC,Economía,1
+EST02306,VIC,Turismo,3
+EST02307,VIC,Derecho,1
+EST02308,VIC,Turismo,2
+EST02309,VIC,Marketing,1
+EST02310,VIC,Turismo,1
+EST02311,VIC,Turismo,3
+EST02312,VIC,Administración y Dirección de Empresas,2
+EST02313,VIC,Economía,2
+EST02314,VIC,Derecho,1
+EST02315,VIC,Turismo,4
+EST02316,VIC,Turismo,4
+EST02317,VIC,Economía,3
+EST02318,VIC,Economía,2
+EST02319,VIC,Turismo,3
+EST02320,VIC,Economía,3
+EST02321,VIC,Turismo,3
+EST02322,VIC,Turismo,1
+EST02323,VIC,Marketing,1
+EST02324,VIC,Administración y Dirección de Empresas,1
+EST02325,VIC,Marketing,1
+EST02326,VIC,Marketing,2
+EST02327,VIC,Economía,3
+EST02328,VIC,Derecho,1
+EST02329,VIC,Economía,3
+EST02330,VIC,Marketing,4
+EST02331,VIC,Economía,4
+EST02332,VIC,Turismo,1
+EST02333,VIC,Administración y Dirección de Empresas,4
+EST02334,VIC,Economía,2
+EST02335,VIC,Administración y Dirección de Empresas,4
+EST02336,VIC,Administración y Dirección de Empresas,1
+EST02337,VIC,Derecho,4
+EST02338,VIC,Marketing,1
+EST02339,VIC,Economía,1
+EST02340,VIC,Marketing,1
+EST02341,VIC,Administración y Dirección de Empresas,1
+EST02342,VIC,Economía,3
+EST02343,VIC,Derecho,2
+EST02344,VIC,Economía,2
+EST02345,VIC,Marketing,4
+EST02346,VIC,Turismo,4
+EST02347,VIC,Administración y Dirección de Empresas,2
+EST02348,VIC,Economía,1
+EST02349,VIC,Turismo,3
+EST02350,VIC,Turismo,1
+EST02351,VIC,Marketing,3
+EST02352,VIC,Marketing,1
+EST02353,VIC,Marketing,3
+EST02354,VIC,Marketing,2
+EST02355,VIC,Derecho,3
+EST02356,VIC,Economía,2
+EST02357,VIC,Turismo,1
+EST02358,VIC,Administración y Dirección de Empresas,4
+EST02359,VIC,Derecho,4
+EST02360,VIC,Derecho,4
+EST02361,VIC,Marketing,1
+EST02362,VIC,Turismo,3
+EST02363,VIC,Economía,4
+EST02364,VIC,Marketing,4
+EST02365,VIC,Administración y Dirección de Empresas,2
+EST02366,VIC,Derecho,2
+EST02367,VIC,Marketing,1
+EST02368,VIC,Marketing,1
+EST02369,VIC,Turismo,2
+EST02370,VIC,Marketing,4
+EST02371,VIC,Marketing,2
+EST02372,VIC,Derecho,4
+EST02373,VIC,Economía,3
+EST02374,VIC,Economía,4
+EST02375,VIC,Derecho,4
+EST02376,VIC,Turismo,1
+EST02377,VIC,Marketing,2
+EST02378,VIC,Administración y Dirección de Empresas,4
+EST02379,VIC,Administración y Dirección de Empresas,2
+EST02380,VIC,Derecho,4

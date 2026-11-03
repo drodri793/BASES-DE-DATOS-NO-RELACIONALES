@@ -1,0 +1,12 @@
+sala_id,campus,campus_nombre,nombre,capacidad,hora_apertura,hora_cierre,hora_cierre_examenes,abre_sabados_examenes
+MOS-BIB-S1,MOS,Móstoles,Biblioteca - Sala de lectura 1,120,08:30:00,21:00:00,21:00:00,True
+MOS-BIB-S2,MOS,Móstoles,Biblioteca - Sala de lectura 2,80,08:30:00,21:00:00,21:00:00,True
+MOS-BIB-SIL,MOS,Móstoles,Biblioteca - Sala silenciosa,40,08:30:00,21:00:00,21:00:00,True
+MOS-DEP-SE,MOS,Móstoles,Departamental I - Sala de estudio,48,09:00:00,20:00:00,20:00:00,False
+MOS-AUL-HA,MOS,Móstoles,Aulario III - Sala de horario ampliado,56,08:00:00,21:00:00,23:30:00,False
+FUE-BIB-S1,FUE,Fuenlabrada,Biblioteca - Sala de lectura 1,100,08:30:00,21:00:00,21:00:00,True
+FUE-BIB-S2,FUE,Fuenlabrada,Biblioteca - Sala de lectura 2,50,08:30:00,21:00:00,21:00:00,True
+FUE-AUL-SE,FUE,Fuenlabrada,Aulario - Sala de estudio,60,09:00:00,20:00:00,20:00:00,False
+VIC-BIB-S1,VIC,Vicálvaro,Biblioteca - Sala de lectura 1,90,08:30:00,21:00:00,21:00:00,True
+VIC-BIB-S2,VIC,Vicálvaro,Biblioteca - Sala de lectura 2,40,08:30:00,21:00:00,21:00:00,True
+VIC-AUL-SE,VIC,Vicálvaro,Aulario - Sala de estudio,48,09:00:00,20:00:00,20:00:00,False
