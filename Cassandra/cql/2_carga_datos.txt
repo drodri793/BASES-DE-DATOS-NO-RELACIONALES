@@ -1,0 +1,31 @@
+1) Copiar el dataset al contenedor Docker
+
+    docker exec cassandra-aforo mkdir -p /data
+    docker cp dataset_aforo/. cassandra-aforo:/data/
+
+
+2) Accedemos a cqlsh y cargamos las tablas
+
+    docker exec -it cassandra-aforo cqlsh
+
+    USE aforo_salas;
+    
+    COPY ocupacion_sala (sala_id, fecha, hora, ocupados, libres, porcentaje)
+    FROM '/data/ocupacion_sala_15min.csv'
+    WITH HEADER = TRUE;
+
+    COPY puestos_mes (sala_id, mes, usos, puesto, minutos_uso, enchufe, ventana)
+    FROM '/data/uso_puestos_mes.csv'
+    WITH HEADER = TRUE;
+
+    COPY visitas (estudiante_id, mes, ts_entrada, ts_salida, fecha, campus, sala_id, puesto, duracion_min, salida_en_cierre, redirigido)
+    FROM '/data/accesos.csv'
+    WITH HEADER = TRUE;
+
+    COPY top_salas_dia (campus, fecha, pico_pct, sala_id, capacidad, pico_ocupados, ocupacion_media_pct, entradas)
+    FROM '/data/load_top_salas_dia.csv'
+    WITH HEADER = TRUE;
+
+    COPY resumen_sala (sala_id, mes, fecha, campus, periodo, capacidad, entradas, pico_pct, ocupacion_media_pct, minutos_completa)
+    FROM '/data/load_resumen_sala.csv'
+    WITH HEADER = TRUE;
