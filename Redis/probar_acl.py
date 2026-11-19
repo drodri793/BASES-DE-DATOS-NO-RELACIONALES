@@ -57,7 +57,7 @@ def main():
         for descripcion, comando in pruebas:
             probar(r, descripcion, comando)
 
-    # El usuario por defecto debería estar desactivado
+    # El usuario por defecto está desactivado
     print("\nUsuario default:")
     try:
         conectar_nube()
