@@ -1,5 +1,5 @@
 # Conexión con Redis Cloud (segundo despliegue) y nombres de los canales de la nube.
-# Persona 2. Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
+
 import os
 import redis
 
