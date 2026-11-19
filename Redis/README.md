@@ -92,7 +92,7 @@ Con el failover manual, si el maestro se cae alguien tiene que promocionar una r
 
 - **3 sentinels y quorum 2.** Un sentinel solo no puede dar el maestro por caído: puede que el problema sea suyo (por ejemplo, de red). Tienen que estar de acuerdo al menos 2 (el quorum). Después, uno de ellos tiene que ser elegido líder por la mayoría (2 de 3) para hacer el failover. Con 3 sentinels se sigue funcionando aunque uno se caiga.
 - **5 segundos** sin respuesta para considerar caído un nodo (`down-after-milliseconds`).
-- **IPs fijas.** Cada contenedor tiene una IP fija en la red `172.30.0.0/24`: el maestro es `172.30.0.2`, las réplicas `.3` y `.4`, y los sentinels `.11`, `.12` y `.13`. Las réplicas y los sentinels se conectan por IP (ver "Problema encontrado").
+- **IPs fijas.** Cada contenedor tiene una IP fija en la red `172.30.0.0/24`: el maestro es `172.30.0.2`, las réplicas `.3` y `.4`, y los sentinels `.11`, `.12` y `.13`. Las réplicas y los sentinels se conectan por IP.
 - **El compose de Redis local no se modifica.** `docker-compose.sentinel.yml` se combina con él: añade los sentinels, da IPs fijas a los tres nodos y hace que las réplicas apunten a la IP del maestro.
 
 En esta carpeta y con Docker Desktop abierto:
@@ -107,6 +107,3 @@ En esta carpeta y con Docker Desktop abierto:
 
 Al terminar, volver al compose normal: `docker compose -f docker-compose.yml -f docker-compose.sentinel.yml down` y después `docker compose up -d`.
 
-#### Problema encontrado
-
-La primera versión usaba los nombres de los contenedores (`redis-master`...) en lugar de IPs. Al parar el maestro, su nombre deja de existir, y Docker tarda varios segundos en responder que no existe. Mientras, las réplicas (que intentan reconectarse a `redis-master` cada segundo) y los sentinels se quedaban bloqueados esperando la respuesta. Los sentinels creían caídas también las réplicas y a otros sentinels, entraban en modo TILT y no hacían el failover. Con IPs fijas no hay que buscar ningún nombre.
