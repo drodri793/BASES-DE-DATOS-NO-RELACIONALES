@@ -1,7 +1,7 @@
 # Puente entre el Redis local y Redis Cloud (Persona 2).
 # Cada medio segundo lee las plazas libres de cada sala en el Redis local y, cuando una sala
 # cambia de nivel (llena, casi llena o con sitio), publica un aviso en Redis Cloud.
-# Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
+
 import json, time
 from config import *
 from config_nube import conectar_nube, canal_aviso, cache_sala
