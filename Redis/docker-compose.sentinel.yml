@@ -1,0 +1,71 @@
+# Sentinel con failover automático (Persona 2, etapa 5).
+# Se usa junto al docker-compose.yml de Persona 1, sin modificarlo:
+#   docker compose -f docker-compose.yml -f docker-compose.sentinel.yml up -d
+# Añade 3 sentinels (puertos 26379, 26380 y 26381) que vigilan al maestro con quorum 2.
+#
+# Cada contenedor tiene una IP fija y todos se conectan por IP, no por nombre. Al parar un
+# contenedor, Docker tarda varios segundos en responder que su nombre no existe, y mientras
+# tanto Redis se queda bloqueado esperando: los sentinels creían caídas también las réplicas
+# y no hacían el failover. Con IPs fijas no hay que buscar ningún nombre.
+
+services:
+  # Mismos nodos que en docker-compose.yml, pero con IP fija y las réplicas apuntando a la IP del maestro
+  redis-master:
+    command: redis-server
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.2
+
+  redis-replica1:
+    command: redis-server --replicaof 172.30.0.2 6379
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.3
+
+  redis-replica2:
+    command: redis-server --replicaof 172.30.0.2 6379
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.4
+
+  # Los 3 sentinels usan el mismo sentinel.conf. Cada uno lo copia dentro de su contenedor
+  # antes de arrancar, porque Sentinel necesita poder reescribirlo
+  sentinel1:
+    image: redis:7
+    container_name: sentinel1
+    command: sh -c "cp /conf/sentinel.conf /data/sentinel.conf && redis-sentinel /data/sentinel.conf"
+    volumes: ["./sentinel:/conf"]
+    ports: ["26379:26379"]
+    depends_on: [redis-master, redis-replica1, redis-replica2]
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.11
+
+  sentinel2:
+    image: redis:7
+    container_name: sentinel2
+    command: sh -c "cp /conf/sentinel.conf /data/sentinel.conf && redis-sentinel /data/sentinel.conf"
+    volumes: ["./sentinel:/conf"]
+    ports: ["26380:26379"]
+    depends_on: [redis-master, redis-replica1, redis-replica2]
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.12
+
+  sentinel3:
+    image: redis:7
+    container_name: sentinel3
+    command: sh -c "cp /conf/sentinel.conf /data/sentinel.conf && redis-sentinel /data/sentinel.conf"
+    volumes: ["./sentinel:/conf"]
+    ports: ["26381:26379"]
+    depends_on: [redis-master, redis-replica1, redis-replica2]
+    networks:
+      redisnet:
+        ipv4_address: 172.30.0.13
+
+# La misma red de Persona 1, pero con un rango de IPs fijo para poder dar IPs fijas
+networks:
+  redisnet:
+    ipam:
+      config:
+        - subnet: 172.30.0.0/24

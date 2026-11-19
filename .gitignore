@@ -1,0 +1,11 @@
+# Credenciales de Redis Cloud
+.env
+
+# Estado del failover manual: lo lee conectar() de config.py
+Redis/maestro_actual.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
