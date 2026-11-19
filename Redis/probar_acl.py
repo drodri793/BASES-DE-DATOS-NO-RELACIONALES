@@ -1,6 +1,6 @@
 # Prueba las reglas ACL de Redis Cloud (Persona 2): con cada usuario intenta operaciones
 # permitidas y prohibidas, y muestra si Redis las acepta o las rechaza con un error NOPERM.
-# Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
+
 import redis
 from config_nube import conectar_nube
 
