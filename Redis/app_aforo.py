@@ -1,5 +1,5 @@
 # App pública de aforo (Persona 2): consulta las plazas libres de una sala usando Redis Cloud
-# como caché (patrón cache-aside, diapositivas 22-23 del tema 3):
+# como caché:
 #  - Si el dato está en la caché de la nube (acierto), se devuelve directamente.
 #  - Si no está (fallo), se lee del Redis local y se guarda en la nube durante TTL_CACHE segundos.
 
