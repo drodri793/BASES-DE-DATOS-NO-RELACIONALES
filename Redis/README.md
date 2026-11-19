@@ -95,7 +95,7 @@ Con el failover manual, si el maestro se cae alguien tiene que promocionar una r
 - **IPs fijas.** Cada contenedor tiene una IP fija en la red `172.30.0.0/24`: el maestro es `172.30.0.2`, las réplicas `.3` y `.4`, y los sentinels `.11`, `.12` y `.13`. Las réplicas y los sentinels se conectan por IP (ver "Problema encontrado").
 - **El compose de Redis local no se modifica.** `docker-compose.sentinel.yml` se combina con él: añade los sentinels, da IPs fijas a los tres nodos y hace que las réplicas apunten a la IP del maestro.
 
-Prueba, en esta carpeta y con Docker Desktop abierto:
+En esta carpeta y con Docker Desktop abierto:
 
 1. Arrancar los nodos y los sentinels: `docker compose -f docker-compose.yml -f docker-compose.sentinel.yml up -d`
 2. Unos 15 segundos después, comprobar el estado:
