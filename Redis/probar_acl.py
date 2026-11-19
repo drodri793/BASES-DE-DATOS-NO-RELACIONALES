@@ -1,4 +1,4 @@
-# Prueba las reglas ACL de Redis Cloud (Persona 2): con cada usuario intenta operaciones
+# Prueba las reglas ACL de Redis Cloud: con cada usuario intenta operaciones
 # permitidas y prohibidas, y muestra si Redis las acepta o las rechaza con un error NOPERM.
 
 import redis
