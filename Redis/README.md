@@ -63,7 +63,7 @@ Para probarla, con el simulador y el puente en marcha:
 
 ### Control de acceso (ACL)
 
-En Redis Cloud hay cuatro usuarios, cada uno con un rol propio y una regla ACL que solo permite lo imprescindible (mínimo privilegio). Los roles predefinidos (Full-Access, Read-Write y Read-Only) no se usan.
+En Redis Cloud hay cuatro usuarios, cada uno con un rol propio y una regla ACL que solo permite lo imprescindible (mínimo privilegio). Los roles predefinidos no se usan.
 
 | Usuario | Rol | Lo usa | Regla ACL |
 |---|---|---|---|
