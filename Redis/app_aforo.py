@@ -51,11 +51,11 @@ def muchas_consultas(local, nube, n=200):
 
 def main():
     local = conectar()
-    nube = conectar_nube("backend")  # el servidor de la app es quien rellena la caché
+    nube = conectar_nube("backend") 
     if len(sys.argv) > 1:
-        una_sala(local, nube, sys.argv[1])  # python app_aforo.py VIC-BIB-S2
+        una_sala(local, nube, sys.argv[1]) 
     else:
-        muchas_consultas(local, nube)       # python app_aforo.py
+        muchas_consultas(local, nube)       
 
 if __name__ == "__main__":
     main()
