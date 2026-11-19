@@ -1,5 +1,5 @@
-# Sentinel con failover automático (Persona 2, etapa 5).
-# Se usa junto al docker-compose.yml de Persona 1, sin modificarlo:
+# Sentinel con failover automático.
+# Se usa junto al docker-compose.yml de la parte de redis local, sin modificarlo:
 #   docker compose -f docker-compose.yml -f docker-compose.sentinel.yml up -d
 # Añade 3 sentinels (puertos 26379, 26380 y 26381) que vigilan al maestro con quorum 2.
 #
@@ -63,7 +63,7 @@ services:
       redisnet:
         ipv4_address: 172.30.0.13
 
-# La misma red de Persona 1, pero con un rango de IPs fijo para poder dar IPs fijas
+# La misma red que en redis local, pero con un rango de IPs fijo para poder dar IPs fijas
 networks:
   redisnet:
     ipam:
