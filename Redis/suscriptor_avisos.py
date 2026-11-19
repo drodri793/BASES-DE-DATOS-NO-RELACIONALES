@@ -1,13 +1,9 @@
-# App de estudiantes (Persona 2): recibe los avisos de Redis Cloud con PSUBSCRIBE y
+# App de estudiantes: recibe los avisos de Redis Cloud con PSUBSCRIBE y
 # calcula la latencia de cada aviso (hora de llegada - hora de envío).
 import json, sys, time
 from config_nube import conectar_nube
 
-# El patrón filtra los avisos por el nombre del canal (aviso:<prioridad>:<campus>:<sala>):
-#   python suscriptor_avisos.py                 -> todos los avisos
-#   python suscriptor_avisos.py aviso:alta:*    -> solo prioridad alta (salas llenas)
-#   python suscriptor_avisos.py aviso:*:VIC:*   -> solo el campus de Vicálvaro
-
+# El patrón filtra los avisos por el nombre del canal (aviso:<prioridad>:<campus>:<sala>)
 def main():
     patron = sys.argv[1] if len(sys.argv) > 1 else "aviso:*"
     nube = conectar_nube("app")  # usuario de las ACL que solo lee la caché y escucha los avisos
