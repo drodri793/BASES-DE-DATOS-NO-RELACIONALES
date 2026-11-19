@@ -37,7 +37,7 @@ Cada sala tiene tres niveles, y cada nivel lleva una prioridad que forma parte d
 
 Una sala llena no vuelve a tener sitio hasta que haya 3 plazas libres. Así no se manda un aviso cada vez que alguien entra o sale de una sala casi llena.
 
-Para la demo hacen falta tres terminales en esta carpeta, con el compose arrancado y los datos cargados:
+Para la demostración hacen falta tres terminales en esta carpeta, con el compose arrancado y los datos cargados:
 
 1. App: `python suscriptor_avisos.py`. Para filtrar: `python suscriptor_avisos.py aviso:alta:*` (solo salas llenas) o `python suscriptor_avisos.py aviso:*:VIC:*` (solo Vicálvaro).
 2. Puente: `python puente_avisos.py`
