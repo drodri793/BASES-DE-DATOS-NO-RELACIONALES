@@ -110,10 +110,3 @@ Al terminar, volver al compose normal: `docker compose -f docker-compose.yml -f 
 #### Problema encontrado
 
 La primera versión usaba los nombres de los contenedores (`redis-master`...) en lugar de IPs. Al parar el maestro, su nombre deja de existir, y Docker tarda varios segundos en responder que no existe. Mientras, las réplicas (que intentan reconectarse a `redis-master` cada segundo) y los sentinels se quedaban bloqueados esperando la respuesta. Los sentinels creían caídas también las réplicas y a otros sentinels, entraban en modo TILT y no hacían el failover. Con IPs fijas no hay que buscar ningún nombre.
-
-## Uso de IA
-
-Según la indicación del profesor, se permite usar IA documentando su uso. En la parte de Persona 2 se ha usado Claude (Anthropic) para:
-
-- analizar el código del repositorio y planificar la integración con la parte de Persona 1;
-- generar una primera versión de `config_nube.py` y `medir_latencia.py` (etapa 1), de `puente_avisos.py` y `suscriptor_avisos.py` (etapa 2) , de `app_aforo.py` (etapa 3), de `probar_acl.py` y las reglas ACL (etapa 4) y de la configuración de Sentinel (etapa 5). Persona 2 la ha revisado, probado y simplificado para que siga el estilo del resto del código.
