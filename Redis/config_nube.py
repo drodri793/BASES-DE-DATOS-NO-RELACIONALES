@@ -3,7 +3,7 @@
 import os
 import redis
 
-# Las credenciales no van en el código: se leen del fichero .env de esta carpeta (no se sube a GitHub)
+# Las credenciales no van en el código: se leen del fichero .env de esta carpeta
 RUTA_ENV = os.path.join(os.path.dirname(__file__), ".env")
 
 def leer_env():
