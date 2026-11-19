@@ -1,6 +1,5 @@
 # App de estudiantes (Persona 2): recibe los avisos de Redis Cloud con PSUBSCRIBE y
 # calcula la latencia de cada aviso (hora de llegada - hora de envío).
-# Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
 import json, sys, time
 from config_nube import conectar_nube
 
