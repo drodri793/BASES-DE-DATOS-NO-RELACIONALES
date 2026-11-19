@@ -1,4 +1,4 @@
-# Puente entre el Redis local y Redis Cloud (Persona 2).
+# Puente entre el Redis local y Redis Cloud.
 # Cada medio segundo lee las plazas libres de cada sala en el Redis local y, cuando una sala
 # cambia de nivel (llena, casi llena o con sitio), publica un aviso en Redis Cloud.
 
