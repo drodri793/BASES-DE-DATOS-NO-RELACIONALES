@@ -2,7 +2,7 @@
 # como caché (patrón cache-aside, diapositivas 22-23 del tema 3):
 #  - Si el dato está en la caché de la nube (acierto), se devuelve directamente.
 #  - Si no está (fallo), se lee del Redis local y se guarda en la nube durante TTL_CACHE segundos.
-# Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
+
 import json, random, sys, time
 from config import *
 from config_nube import conectar_nube, cache_sala, TTL_CACHE
