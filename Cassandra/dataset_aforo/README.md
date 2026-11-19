@@ -146,11 +146,11 @@ En total hay 5.763 rechazos y 2.099 accesos redirigidos.
 
 Se ha comprobado automáticamente que:
 
-- ningún puesto tiene dos ocupantes a la vez;
-- ningún estudiante está en dos salas a la vez;
-- la ocupación nunca supera la capacidad;
-- no hay accesos fuera de horario ni en días cerrados;
-- todas las referencias (estudiante, sala, puesto) existen en los catálogos;
-- los ficheros derivados coinciden con el recálculo desde `accesos.csv`;
-- las claves primarias del plan son únicas;
-- los formatos de fecha, hora, timestamp y booleano son los que acepta cqlsh.
+- Ningún puesto tiene dos ocupantes a la vez.
+- Ningún estudiante está en dos salas a la vez.
+- La ocupación nunca supera la capacidad.
+- No hay accesos fuera de horario ni en días cerrados.
+- Todas las referencias (estudiante, sala, puesto) existen en los catálogos.
+- Los ficheros derivados coinciden con el recálculo desde `accesos.csv`.
+- Las claves primarias del plan son únicas.
+- Los formatos de fecha, hora, timestamp y booleano son los que acepta cqlsh.
