@@ -1,6 +1,6 @@
 # BASES-DE-DATOS-NO-RELACIONALES
 
-## Redis Cloud: segundo despliegue (Persona 2)
+## Redis Cloud: segundo despliegue
 
 El Redis local (Docker) atiende a los tornos en tiempo real. Redis Cloud reparte los avisos de aforo por Pub/Sub y guarda la caché del aforo para la app pública, porque es accesible desde cualquier móvil y solo necesita datos ligeros.
 
@@ -21,7 +21,7 @@ El Redis local (Docker) atiende a los tornos en tiempo real. Redis Cloud reparte
 | `suscriptor_avisos.py` | App de estudiantes: recibe los avisos con PSUBSCRIBE, filtrando por un patrón, y mide la latencia |
 | `app_aforo.py` | App pública: consulta las plazas libres de las salas usando Redis Cloud como caché (cache-aside) |
 | `probar_acl.py` | Prueba los permisos de cada usuario de las ACL: operaciones permitidas y denegadas (NOPERM) |
-| `docker-compose.sentinel.yml` | Añade 3 sentinels al compose de Persona 1 para tener failover automático |
+| `docker-compose.sentinel.yml` | Añade 3 sentinels al compose de redis local para tener failover automático |
 | `sentinel/sentinel.conf` | Configuración de los sentinels: maestro vigilado, quorum 2 y tiempos |
 | `.env.example` | Plantilla de credenciales |
 
@@ -93,7 +93,7 @@ Con el failover manual, si el maestro se cae alguien tiene que promocionar una r
 - **3 sentinels y quorum 2.** Un sentinel solo no puede dar el maestro por caído: puede que el problema sea suyo (por ejemplo, de red). Tienen que estar de acuerdo al menos 2 (el quorum). Después, uno de ellos tiene que ser elegido líder por la mayoría (2 de 3) para hacer el failover. Con 3 sentinels se sigue funcionando aunque uno se caiga.
 - **5 segundos** sin respuesta para considerar caído un nodo (`down-after-milliseconds`).
 - **IPs fijas.** Cada contenedor tiene una IP fija en la red `172.30.0.0/24`: el maestro es `172.30.0.2`, las réplicas `.3` y `.4`, y los sentinels `.11`, `.12` y `.13`. Las réplicas y los sentinels se conectan por IP (ver "Problema encontrado").
-- **El compose de Persona 1 no se modifica.** `docker-compose.sentinel.yml` se combina con él: añade los sentinels, da IPs fijas a los tres nodos y hace que las réplicas apunten a la IP del maestro.
+- **El compose de Redis local no se modifica.** `docker-compose.sentinel.yml` se combina con él: añade los sentinels, da IPs fijas a los tres nodos y hace que las réplicas apunten a la IP del maestro.
 
 Prueba, en esta carpeta y con Docker Desktop abierto:
 
