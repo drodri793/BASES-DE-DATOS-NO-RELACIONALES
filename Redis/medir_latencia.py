@@ -1,5 +1,5 @@
 # Mide la latencia del Redis local (Docker) y de Redis Cloud para justificar el rol de cada despliegue.
-# Persona 2. Código hecho con ayuda de IA (Claude): ver README, apartado "Uso de IA".
+
 import time
 from config import conectar
 from config_nube import conectar_nube
