@@ -7,7 +7,7 @@ El Redis local (Docker) atiende a los tornos en tiempo real. Redis Cloud reparte
 ### Puesta en marcha
 
 1. Crear la base de datos en Redis Cloud (plan Free, en una región europea).
-2. Copiar `.env.example` como `.env` en esta carpeta y rellenarlo con el host, el puerto y la contraseña. El `.env` no se sube a GitHub.
+2. Copiar `.env.example` como `.env` en esta carpeta y rellenarlo con el host, el puerto y la contraseña.
 3. Comprobar la conexión: `python config_nube.py`
 4. Con el compose de Redis arrancado (`docker compose up -d`), comparar la latencia de los dos despliegues: `python medir_latencia.py`
 
